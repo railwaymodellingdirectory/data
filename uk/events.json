@@ -457,5 +457,30 @@
     "description": "Join us for an unmissable weekend of railway and scale modelling. Model World LIVE 2026 brings together railway, scale and radio control modellers in one outstanding event featuring over 190 stands with the best in modelling. The 2026 show is sponsored by Bachmann, Pocketbond, Model Collect Create, Hornby Magazine and Airfix Model World. Doors open at 10am (9:30am for advance ticket holders) until 5pm on Saturday and until 4pm on Sunday.",
     "latLng": "52.4547,-1.7205",
     "url": "https://www.keymodelworld.com/modelworldlive"
+  },
+  {
+    "name": "Preston and District Model Railway Society Exhibition",
+    "organizer": "Preston and District Model Railway Society",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08",
+    "venue": "Preston College Fulwood Campus",
+    "address": "St. Vincent's Road, Fulwood, Preston, PR2 8UR",
+    "county": "Lancashire",
+    "layouts": "",
+    "traders": null,
+    "features": [
+      "Layouts in Various Scales and Gauges"
+    ],
+    "amenities": [
+      "Free Parking",
+      "Wheelchair access",
+      "Refreshments"
+    ],
+    "specialFeatures": [
+      "Trade Support"
+    ],
+    "description": "Saturday 10am to 5pm, Sunday 10am to 4pm. Adults: £9, Accompanied children under 15: Free, Wheelchair/Scooter Users: £5. Easy access from M6/M55/A6.",
+    "latLng": "53.79372, -2.70893",
+    "url": ""
   }
 ]
