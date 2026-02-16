@@ -482,5 +482,27 @@
     "description": "Saturday 10am to 5pm, Sunday 10am to 4pm. Adults: £9, Accompanied children under 15: Free, Wheelchair/Scooter Users: £5. Easy access from M6/M55/A6.",
     "latLng": "53.78388, -2.70049",
     "url": "http://www.prestonanddistrictmrs.org.uk/exhibition/"
+  },
+  {
+    "name": "Model Railway Exhibition",
+    "organizer": "Norwich Model Railway Club",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-11",
+    "venue": "Hellesdon High School",
+    "address": "Middletons Lane, Norwich, NR6 5SB",
+    "county": "Norfolk",
+    "layouts": "17",
+    "traders": null,
+    "features": [
+      "modelling demonstrations"
+    ],
+    "amenities": [
+      "free parking",
+      "disabled access"
+    ],
+    "specialFeatures": [],
+    "description": "On behalf of the Railway Heritage and Model Society Charity No: 1065019. Approximately 17 layouts in gauges from N to SM32, modelling demonstrations and full trade support from a wide range of vendors will be present. First Bus Services 28/29/X29 run to Hellesdon Hospital, then a 5 minute stroll to the venue. Admission £6, accompanied U/16 free. Cash and Card Welcome.",
+    "latLng": "52.6486, 1.2574",
+    "url": ""
   }
 ]
