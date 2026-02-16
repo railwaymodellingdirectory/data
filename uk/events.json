@@ -444,5 +444,51 @@
     "description": "ModRail 2026 is Swindon Model Railway Club's annual exhibition featuring around 20 model railway layouts and approximately 30 trade stands. The event takes place over two days at the STEAM Museum in Swindon.",
     "latLng": "51.56336, -1.79543",
     "url": "https://www.swindonmodelrailwayclub.com/index.php/modrail-2026"
+  },
+  {
+    "name": "Model World LIVE 2026",
+    "organizer": "Key Publishing",
+    "startDate": "2026-04-25",
+    "endDate": "2026-04-26",
+    "venue": "National Exhibition Centre",
+    "address": "Hall 9, National Exhibition Centre, Birmingham B40 1NT",
+    "county": "West Midlands",
+    "layouts": "Over 190 stands",
+    "traders": 190,
+    "features": [
+      "Hand-picked working model railways",
+      "Featured layouts from Hornby Magazine",
+      "Latest layout builds from Key Model World",
+      "Airfix Model World contributor displays",
+      "Scale modelling displays",
+      "RCDrift 2026 championship finals",
+      "Radio control vehicles in dedicated arenas",
+      "Manufacturer stands",
+      "Quality trade stands",
+      "Interactive stands",
+      "Expert modelling demonstrations"
+    ],
+    "amenities": [
+      "Indoor catering available inside Hall 9",
+      "On-site parking (advance booking available)",
+      "Direct rail connection at Birmingham International station",
+      "Adjacent to Birmingham International Airport",
+      "Disabled access with free carer admission",
+      "Ticket desk at main entrance"
+    ],
+    "specialFeatures": [
+      "Pete Waterman's 136ft long Making Tracks layout",
+      "TMC/Tamiya RC track with turn up and drive facility",
+      "Silverstone National Circuit Scalextric replica by Sawyer Models",
+      "Tamiya Truckin 1/14 scale trucks display with narrow gauge railway",
+      "Advance ticket holders receive entry 30 minutes earlier",
+      "VIP tickets available (advance only)",
+      "Weekend tickets include £10 voucher for Key Model World stand",
+      "Children under 16 enter free on Sunday with paying adult",
+      "Free die-cast vehicle from Oxford Diecast for visitors with show guide"
+    ],
+    "description": "Join us for an unmissable weekend of railway and scale modelling at Model World LIVE 2026. The event brings together railway, scale and radio control modellers featuring over 190 stands. Highlights include top quality hand-picked working model railways from across the UK, featured layouts from Hornby Magazine, the latest builds from Key Model World and Airfix Model World, stunning scale modelling displays, RCDrift 2026 championship finals, fully working radio control vehicles, manufacturer and quality trade stands, and interactive demonstrations. Doors open at 10am (9.30am for advance ticket holders) until 5pm on Saturday and 4pm on Sunday. Sponsored by Bachmann, Pocketbond, Model Collect Create, Hornby Magazine, Airfix Model World, Oxford Diecast, and TMC The Model Centre.",
+    "latLng": "52.4517,-1.7208",
+    "url": "https://www.keymodelworld.com/modelworldlive"
   }
 ]
