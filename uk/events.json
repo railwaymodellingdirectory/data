@@ -459,15 +459,15 @@
     "url": "https://www.keymodelworld.com/modelworldlive"
   },
   {
-    "name": "Preston and District Model Railway Society Exhibition",
+    "name": "Exhibition",
     "organizer": "Preston and District Model Railway Society",
     "startDate": "2026-03-07",
     "endDate": "2026-03-08",
     "venue": "Preston College Fulwood Campus",
     "address": "St. Vincent's Road, Fulwood, Preston, PR2 8UR",
     "county": "Lancashire",
-    "layouts": "",
-    "traders": null,
+    "layouts": "19",
+    "traders": "19",
     "features": [
       "Layouts in Various Scales and Gauges"
     ],
@@ -480,7 +480,7 @@
       "Trade Support"
     ],
     "description": "Saturday 10am to 5pm, Sunday 10am to 4pm. Adults: £9, Accompanied children under 15: Free, Wheelchair/Scooter Users: £5. Easy access from M6/M55/A6.",
-    "latLng": "53.79372, -2.70893",
-    "url": ""
+    "latLng": "53.78388, -2.70049",
+    "url": "http://www.prestonanddistrictmrs.org.uk/exhibition/"
   }
 ]
