@@ -487,5 +487,48 @@
     "description": "Model World LIVE 2026 returns to the National Exhibition Centre in Birmingham bringing together railway, scale and radio control modellers in one outstanding event. The show features over 190 stands, hand-picked working model railways, scale modelling displays, radio control vehicles, manufacturer and trade stands, and interactive demonstrations. Sponsored by Bachmann, Pocketbond, Model Collect Create, Hornby Magazine and Airfix Model World. Doors open at 10am (9:30am for advance ticket holders) until 5pm Saturday and 4pm Sunday.",
     "latLng": "52.4538,-1.7308",
     "url": "https://www.keymodelworld.com/modelworldlive"
+  },
+  {
+    "name": "Model World LIVE 2026",
+    "organizer": "Key Publishing",
+    "startDate": "2026-04-25",
+    "endDate": "2026-04-26",
+    "venue": "National Exhibition Centre",
+    "address": "Hall 9, National Exhibition Centre, Birmingham B40 1NT",
+    "county": "West Midlands",
+    "layouts": "Over 190 stands",
+    "traders": 190,
+    "features": [
+      "Hand-picked working model railways from across the UK",
+      "Featured layout from Hornby Magazine",
+      "Latest layout builds from Key Model World",
+      "Airfix Model World contributors displaying model builds",
+      "Stunning scale modelling displays",
+      "RCDrift 2026 championship finals",
+      "Fully working radio control vehicles in dedicated arenas",
+      "Manufacturer stands from across the modelling hobby",
+      "Quality trade stands offering products for all areas of modelling",
+      "Interactive stands",
+      "Expert modelling demonstrations"
+    ],
+    "amenities": [
+      "Indoor catering available inside Hall 9",
+      "On-site parking available (advance booking recommended)",
+      "Disabled access with free carer tickets available",
+      "Connected to Birmingham International railway station",
+      "Adjacent to Birmingham International Airport"
+    ],
+    "specialFeatures": [
+      "Pete Waterman's 136ft long Making Tracks layout of Milton Keynes and Watford Junction",
+      "TMC/Tamiya RC track with turn up and drive demonstrations",
+      "Race against real racing driver Daniel Truman on Scalextric replica of Silverstone National Circuit",
+      "Tamiya Truckin 1/14 scale trucks display with narrow gauge railway",
+      "Scale modelling displays from Bolton IPMS",
+      "Training Aircraft Special Interest Group display",
+      "Royal Spithead Review display with 900 1/1200th scale models"
+    ],
+    "description": "Join us for an unmissable weekend of railway and scale modelling. Model World LIVE 2026 brings together railway, scale and radio control modellers in one outstanding event featuring over 190 stands with the best in modelling. The 2026 show is sponsored by Bachmann, Pocketbond, Model Collect Create, Hornby Magazine and Airfix Model World. Doors open at 10am (9:30am for advance ticket holders) until 5pm on Saturday and until 4pm on Sunday.",
+    "latLng": "52.4547,-1.7205",
+    "url": "https://www.keymodelworld.com/modelworldlive"
   }
 ]
