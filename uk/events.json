@@ -521,5 +521,34 @@
     "description": "Adult ticket £8.00, Under 16s free. 10am til 4pm. Proudly sponsored by Accurascale.",
     "latLng": "54.61239, -1.58831",
     "url": "https://www.darlingtonmrc.co.uk"
+  },
+  {
+    "name": "Model Railway Exhibition",
+    "organizer": "Kent & East Sussex Railway",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "venue": "Tenterden Town Station",
+    "address": "Tenterden Town Station, Tenterden",
+    "county": "Kent",
+    "layouts": "Wide variety of detailed and imaginative layouts",
+    "traders": 0,
+    "features": [
+      "Unique model railway layouts",
+      "Large on-site marquee",
+      "Various detailed and imaginative layouts",
+      "Passionate modellers"
+    ],
+    "amenities": [
+      "Range of traders offering model railway supplies and collectibles",
+      "Free admission with valid K&ESR train travel on the day"
+    ],
+    "specialFeatures": [
+      "Adults: £5",
+      "Children: FREE",
+      "Free admission with valid K&ESR train travel on the day"
+    ],
+    "description": "Join us for a fascinating day at Tenterden, featuring unique model railway layouts, all displayed within our large on-site marquee. Enthusiasts and families alike can explore a wide variety of detailed and imaginative layouts, brought together by passionate modellers. In addition to the layouts, there will be a range of traders offering model railway supplies and collectibles. Don't miss this fun-filled event for model railway fans of all ages!",
+    "latLng": "",
+    "url": "https://kesr.org.uk/model-railway-exhibition-22nd-aug/"
   }
 ]
