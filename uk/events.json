@@ -523,7 +523,31 @@
     "url": "https://www.darlingtonmrc.co.uk"
   },
   {
-    "name": "pen Day",
+    "name": "23rd Annual Model Railway Show",
+    "organizer": "Ilkeston Woodside Model Railway Club",
+    "startDate": "2026-02-22",
+    "endDate": "2026-02-22",
+    "venue": "Heanor Miners Welfare",
+    "address": "Heanor, DE75 7DT",
+    "county": "Derbyshire",
+    "layouts": "10",
+    "traders": 8,
+    "features": [
+      "Full trade support"
+    ],
+    "amenities": [
+      "Refreshments available",
+      "Free car parking"
+    ],
+    "specialFeatures": [
+      "Signposted from all main routes"
+    ],
+    "description": "Admission £5.00. Accompanied U16's FREE. Opening time 10am - 4.00pm. The organisers reserve the right to refuse admission.",
+    "latLng": "53.00987499022711,-1.3513406280492246",
+    "url": "https://www.ilkestonwoodsidemrc.co.uk/"
+  },
+  {
+    "name": "Open Day",
     "organizer": "The West Sussex 'N' Gauge MRC",
     "startDate": "2026-03-07",
     "endDate": "2026-03-07",
