@@ -523,6 +523,31 @@
     "url": "https://www.darlingtonmrc.co.uk"
   },
   {
+    "name": "Cheltenham Model Railway Exhibition",
+    "organizer": "Cheltenham GWR Modellers Group",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-12",
+    "venue": "St Margaret's Hall",
+    "address": "Coniston Road, Hatherley, GL51 3NU",
+    "county": "Gloucestershire",
+    "layouts": "10+",
+    "traders": null,
+    "features": [
+      "Steam & diesel layouts",
+      "Model road vehicles"
+    ],
+    "amenities": [
+      "Refreshments"
+    ],
+    "specialFeatures": [
+      "Thomas will be there for children to drive",
+      "Enlarged venue - more layouts"
+    ],
+    "description": "Adults £6.00, Children £2.00, Family £12.00 - Cash Only. Donation to WaterAid.",
+    "latLng": "51.88914623335303, -2.1093216953595184",
+    "url": "https://www.cheltmodrail.org.uk"
+  },
+  {
     "name": "23rd Annual Model Railway Show",
     "organizer": "Ilkeston Woodside Model Railway Club",
     "startDate": "2026-02-22",
