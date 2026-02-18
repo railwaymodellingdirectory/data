@@ -523,6 +523,35 @@
     "url": "https://www.darlingtonmrc.co.uk"
   },
   {
+    "name": "Model Railway Exhibition",
+    "organizer": "Kent & East Sussex Railway",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "venue": "Tenterden Town Station",
+    "address": "Tenterden Town Station, Tenterden,  TN30 6HE",
+    "county": "Kent",
+    "layouts": "TBC",
+    "traders": 0,
+    "features": [
+      "Unique model railway layouts",
+      "Large on-site marquee",
+      "Various detailed and imaginative layouts",
+      "Passionate modellers"
+    ],
+    "amenities": [
+      "Range of traders offering model railway supplies and collectibles",
+      "Free admission with valid K&ESR train travel on the day"
+    ],
+    "specialFeatures": [
+      "Adults: £5",
+      "Children: FREE",
+      "Free admission with valid K&ESR train travel on the day"
+    ],
+    "description": "Join us for a fascinating day at Tenterden, featuring unique model railway layouts, all displayed within our large on-site marquee. Enthusiasts and families alike can explore a wide variety of detailed and imaginative layouts, brought together by passionate modellers. In addition to the layouts, there will be a range of traders offering model railway supplies and collectibles. Don't miss this fun-filled event for model railway fans of all ages!",
+    "latLng": "51.06952, 0.68510",
+    "url": "https://kesr.org.uk/model-railway-exhibition-22nd-aug/"
+  },
+  {
     "name": "41st Exhibition",
     "organizer": "Uckfield Model Railway Club",
     "startDate": "2026-10-17",
