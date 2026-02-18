@@ -682,5 +682,10 @@
     "description": "The 41st Uckfield Model Railway Exhibition features a selection of some of the best quality layouts around with 20 layouts portraying British, American and Continental prototypes across multiple scales. The exhibition incorporates Scalefour Southeast regional event and includes full trade support with demonstration and society stands across two floors of the modern Uckfield Civic Centre in the town centre.",
     "latLng": "50.97077, 0.09518",
     "url": "https://www.uckfieldmrc.co.uk/exhibition.html"
+  },
+  {
+    "name": "Test Event",
+    "startDate": "2025-02-16",
+    "endDate": "2025-02-16"
   }
 ]
