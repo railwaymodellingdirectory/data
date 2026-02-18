@@ -521,5 +521,28 @@
     "description": "Adult ticket £8.00, Under 16s free. 10am til 4pm. Proudly sponsored by Accurascale.",
     "latLng": "54.61239, -1.58831",
     "url": "https://www.darlingtonmrc.co.uk"
+  },
+  {
+    "name": "Model Railway Exhibition",
+    "organizer": "Gosport Model Railroad Club",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-21",
+    "venue": "St. Mary's Church Parish Centre",
+    "address": "Green Road, Alverstoke, Gosport, PO12 2ET",
+    "county": "Hampshire",
+    "layouts": "various scales",
+    "traders": null,
+    "features": [
+      "Layouts in various scales",
+      "Trade"
+    ],
+    "amenities": [
+      "Light Refreshments",
+      "Dedicated car park"
+    ],
+    "specialFeatures": [],
+    "description": "Layouts in various scales, Trade & Light Refreshments Available. Cash only entrance. Accessible by bus No.11 to St Marys Avenue bus stop & then a 1 minute walk to Green Road.",
+    "latLng": "50.78891, -1.13842",
+    "url": "www.gosportrailroadgroup.org.uk"
   }
 ]
