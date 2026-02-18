@@ -521,5 +521,30 @@
     "description": "Adult ticket £8.00, Under 16s free. 10am til 4pm. Proudly sponsored by Accurascale.",
     "latLng": "54.61239, -1.58831",
     "url": "https://www.darlingtonmrc.co.uk"
+  },
+  {
+    "name": "Cheltenham Model Railway Exhibition",
+    "organizer": "Cheltenham GWR Modellers Group",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-12",
+    "venue": "St Margaret's Hall",
+    "address": "Coniston Road, Hatherley, GL51 3NU",
+    "county": "Gloucestershire",
+    "layouts": null,
+    "traders": null,
+    "features": [
+      "Steam & diesel layouts",
+      "Model road vehicles"
+    ],
+    "amenities": [
+      "Refreshments"
+    ],
+    "specialFeatures": [
+      "Thomas will be there for children to drive",
+      "Enlarged venue - more layouts"
+    ],
+    "description": "Adults £6.00, Children £2.00, Family £12.00 - Cash Only. Donation to WaterAid.",
+    "latLng": "51.8725, -2.1089",
+    "url": "https://www.cheltmodrail.org.uk"
   }
 ]
