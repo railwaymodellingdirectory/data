@@ -523,6 +523,29 @@
     "url": "https://www.darlingtonmrc.co.uk"
   },
   {
+    "name": "Model Railway Exhibition",
+    "organizer": "Gosport Model Railroad Club",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-21",
+    "venue": "St. Mary's Church Parish Centre",
+    "address": "Green Road, Alverstoke, Gosport, PO12 2ET",
+    "county": "Hampshire",
+    "layouts": "various scales",
+    "traders": null,
+    "features": [
+      "Layouts in various scales",
+      "Trade"
+    ],
+    "amenities": [
+      "Light Refreshments",
+      "Dedicated car park"
+    ],
+    "specialFeatures": [],
+    "description": "Layouts in various scales, Trade & Light Refreshments Available. Cash only entrance. Accessible by bus No.11 to St Marys Avenue bus stop & then a 1 minute walk to Green Road.",
+    "latLng": "50.78569519610916, -1.1481399174432523",
+    "url": "www.gosportrailroadgroup.org.uk"
+  },
+  {
     "name": "Cheltenham Model Railway Exhibition",
     "organizer": "Cheltenham GWR Modellers Group",
     "startDate": "2026-04-11",
