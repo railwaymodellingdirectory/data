@@ -523,7 +523,7 @@
     "url": "https://www.darlingtonmrc.co.uk"
   },
   {
-    "name": "The West Sussex 'N' Gauge MRC Open Day",
+    "name": "pen Day",
     "organizer": "The West Sussex 'N' Gauge MRC",
     "startDate": "2026-03-07",
     "endDate": "2026-03-07",
@@ -541,7 +541,74 @@
     ],
     "specialFeatures": [],
     "description": "Open Day with club shop selling quality pre-owned N gauge at competitive prices. Adults £1.00, Children free.",
-    "latLng": "50.8292, -0.3384",
+    "latLng": "50.83449, -0.34590",
     "url": "www.wsng.co.uk"
+  },
+  {
+    "name": "Model Railway Exhibition",
+    "organizer": "Kent & East Sussex Railway",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "venue": "Tenterden Town Station",
+    "address": "Tenterden Town Station, Tenterden,  TN30 6HE",
+    "county": "Kent",
+    "layouts": "TBC",
+    "traders": 0,
+    "features": [
+      "Unique model railway layouts",
+      "Large on-site marquee",
+      "Various detailed and imaginative layouts",
+      "Passionate modellers"
+    ],
+    "amenities": [
+      "Range of traders offering model railway supplies and collectibles",
+      "Free admission with valid K&ESR train travel on the day"
+    ],
+    "specialFeatures": [
+      "Adults: £5",
+      "Children: FREE",
+      "Free admission with valid K&ESR train travel on the day"
+    ],
+    "description": "Join us for a fascinating day at Tenterden, featuring unique model railway layouts, all displayed within our large on-site marquee. Enthusiasts and families alike can explore a wide variety of detailed and imaginative layouts, brought together by passionate modellers. In addition to the layouts, there will be a range of traders offering model railway supplies and collectibles. Don't miss this fun-filled event for model railway fans of all ages!",
+    "latLng": "51.06952, 0.68510",
+    "url": "https://kesr.org.uk/model-railway-exhibition-22nd-aug/"
+  },
+  {
+    "name": "41st Exhibition",
+    "organizer": "Uckfield Model Railway Club",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "venue": "Uckfield Civic Centre",
+    "address": "Civic Approach, Uckfield, East Sussex, TN22 1AE",
+    "county": "East Sussex",
+    "layouts": "20 layouts portraying British, American and Continental prototypes, including standard, broad and narrow gauge practices in various scales: 7mm/ft scale (0, 0-16.5), 1:50 scale, 1:64 scale (S), 4mm/ft scale (P4, EM, 00, 00-28, 00-9), 3.5mm/ft scale (H0, H0e), 3mm/ft scale (TT), 1:148 scale (British N) and 2mm/ft finescale",
+    "traders": 24,
+    "features": [
+      "Scalefour Southeast regional event",
+      "Information Stand",
+      "Scalefour Stores",
+      "Demonstration stands",
+      "Society stands",
+      "Two floor venue with layouts and stands on both floors"
+    ],
+    "amenities": [
+      "Free council High Street 'Luxford Field' car park (304 spaces) adjacent to venue",
+      "Tesco car park next to venue",
+      "Stair and lift access between floors",
+      "Disabled friendly with ramp access from car park",
+      "Periscopes available to borrow for £5 returnable deposit",
+      "Luxfords licensed restaurant with table service",
+      "Hot and cold refreshments including meals at lunchtime",
+      "Hot bacon or sausage baps available from 9am",
+      "5 minutes walk from Uckfield Railway and Bus Stations"
+    ],
+    "specialFeatures": [
+      "Incorporating Scalefour Southeast regional event",
+      "Full trade support with 24 traders",
+      "Guide/assistance dogs only permitted"
+    ],
+    "description": "The 41st Uckfield Model Railway Exhibition features a selection of some of the best quality layouts around with 20 layouts portraying British, American and Continental prototypes across multiple scales. The exhibition incorporates Scalefour Southeast regional event and includes full trade support with demonstration and society stands across two floors of the modern Uckfield Civic Centre in the town centre.",
+    "latLng": "50.97077, 0.09518",
+    "url": "https://www.uckfieldmrc.co.uk/exhibition.html"
   }
 ]
