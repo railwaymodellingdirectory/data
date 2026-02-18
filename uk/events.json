@@ -523,6 +523,28 @@
     "url": "https://www.darlingtonmrc.co.uk"
   },
   {
+    "name": "pen Day",
+    "organizer": "The West Sussex 'N' Gauge MRC",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-07",
+    "venue": "Sompting Village Hall",
+    "address": "West Street, BN15 0BE",
+    "county": "West Sussex",
+    "layouts": null,
+    "traders": null,
+    "features": [
+      "Club Shop Open",
+      "Quality pre-owned N gauge"
+    ],
+    "amenities": [
+      "Refreshments available"
+    ],
+    "specialFeatures": [],
+    "description": "Open Day with club shop selling quality pre-owned N gauge at competitive prices. Adults £1.00, Children free.",
+    "latLng": "50.83449, -0.34590",
+    "url": "www.wsng.co.uk"
+  },
+  {
     "name": "Model Railway Exhibition",
     "organizer": "Kent & East Sussex Railway",
     "startDate": "2026-08-22",
