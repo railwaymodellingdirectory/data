@@ -682,5 +682,32 @@
     "description": "The 41st Uckfield Model Railway Exhibition features a selection of some of the best quality layouts around with 20 layouts portraying British, American and Continental prototypes across multiple scales. The exhibition incorporates Scalefour Southeast regional event and includes full trade support with demonstration and society stands across two floors of the modern Uckfield Civic Centre in the town centre.",
     "latLng": "50.97077, 0.09518",
     "url": "https://www.uckfieldmrc.co.uk/exhibition.html"
+  },
+  {
+    "name": "Sodbury Vale MRC 50th Anniversary Exhibition",
+    "organizer": "Sodbury Vale Model Railway Club",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-14",
+    "venue": "Aerospace Bristol, Concorde Hanger",
+    "address": "Aerospace Bristol, Concorde Hanger",
+    "county": "Bristol",
+    "layouts": "Not specified",
+    "traders": 0,
+    "features": [
+      "50th Anniversary celebration",
+      "Held under the wings of Concorde",
+      "Ticket valid for a whole year for return visits to Aerospace Bristol events"
+    ],
+    "amenities": [
+      "Free parking",
+      "Easy access for all"
+    ],
+    "specialFeatures": [
+      "Exhibition at iconic Aerospace Bristol location",
+      "Year-long ticket validity for other Aerospace Bristol events"
+    ],
+    "description": "To celebrate our 50th Anniversary, we are delighted and excited to announce that our 2026 Exhibition will be held at Aerospace Bristol, Concorde Hanger on 14 March 2026. Please join us to celebrate this under the wings of an iconic aeroplane and have a great day out. Not only that but your ticket is valid for a whole year to return free of charge to other events held by Aerospace Bristol for a whole year. There is free parking and easy access for all.",
+    "latLng": "",
+    "url": "https://sodburyvalemrc.co.uk/march-2026-exhibition/"
   }
 ]
