@@ -714,5 +714,36 @@
     "description": "For a quarter of a century, The London Festival of Railway Modelling has been the ultimate destination for enthusiasts, families, and collectors alike. Hosted in the iconic Alexandra Palace, this two-day event is a must for anyone passionate about railways, miniature engineering, and creative craftsmanship. Brought to you in association with The Model Railway Club and World of Railways, the 2026 event promises to be the biggest and best yet — showcasing the artistry, precision, and innovation that make railway modelling such a beloved pastime. Visitors can look forward to over 90 leading trade stands featuring tools, kits, scenery, and accessories, as well as 40+ inspiring layouts from top modellers across multiple gauges and eras.",
     "latLng": "51.594404625647115, -0.13083245767222415",
     "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/"
+  },
+  {
+    "name": "ABRAIL 2026",
+    "organizer": "Abingdon & District Model Railway Club",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08",
+    "venue": "Abingdon & Witney College, Abingdon Campus",
+    "address": "Wootton Road, Abingdon, OX14 1GG",
+    "county": "Oxfordshire",
+    "layouts": "Over 40 quality layouts",
+    "traders": 45,
+    "features": [
+      "45 Quality Layouts",
+      "Traders & Society stands",
+      "More than 4000 visitors over 2 days"
+    ],
+    "amenities": [
+      "Free parking on site",
+      "Parking at adjacent Fitzharris School",
+      "Town centre car parks nearby",
+      "Public bus routes available"
+    ],
+    "specialFeatures": [
+      "Oxfordshire's largest Model Railway Show",
+      "One of the largest single-club shows in the country",
+      "Early access for advance ticket holders (up to 30 minutes)",
+      "Covering most common gauges"
+    ],
+    "description": "ABRAIL 2026 is Oxfordshire's largest Model Railway Show featuring over 40 quality layouts spread through the classrooms and Sports Hall of the Abingdon & Witney College. The show has grown to be the largest Model Railway Show in Oxfordshire and one of the largest single-club shows in the country. With more than 4000 visitors over 2 days, the show features traders, society stands, and layouts covering most common gauges. The event is hosted by the Abingdon & District Model Railway Club (registered charity 1176029).",
+    "latLng": "51.6698,-1.2936",
+    "url": "https://abrail.org.uk/"
   }
 ]
