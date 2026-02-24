@@ -714,5 +714,40 @@
     "description": "For a quarter of a century, The London Festival of Railway Modelling has been the ultimate destination for enthusiasts, families, and collectors alike. Hosted in the iconic Alexandra Palace, this two-day event is a must for anyone passionate about railways, miniature engineering, and creative craftsmanship. Brought to you in association with The Model Railway Club and World of Railways, the 2026 event promises to be the biggest and best yet — showcasing the artistry, precision, and innovation that make railway modelling such a beloved pastime. Visitors can look forward to over 90 leading trade stands featuring tools, kits, scenery, and accessories, as well as 40+ inspiring layouts from top modellers across multiple gauges and eras.",
     "latLng": "51.594404625647115, -0.13083245767222415",
     "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/"
+  },
+  {
+    "name": "Model Rail Scotland",
+    "organizer": "AMRSS Ltd",
+    "startDate": "2026-03-27",
+    "endDate": "2026-03-29",
+    "venue": "Scottish Event Campus Glasgow",
+    "address": "Hall 3, Scottish Event Campus Glasgow",
+    "county": "Glasgow",
+    "layouts": "Over 50",
+    "traders": 130,
+    "features": [
+      "60th Anniversary Show",
+      "Over 50 Layouts",
+      "130 Exhibitor Stands",
+      "Limited Edition Cavalex Colas class 56 'Peco 70 Years' model",
+      "DCC Ready and DCC sound formats available",
+      "Member Clubs section",
+      "Photo Gallery",
+      "Videos"
+    ],
+    "amenities": [
+      "Ticket desk accepts cash, credit/debit card, and applepay/androidpay",
+      "Cash free venue (except ticket desk)",
+      "Accessibility Guide available",
+      "FAQ section available"
+    ],
+    "specialFeatures": [
+      "UK's premier independent model railway exhibition",
+      "Limited edition model launch",
+      "60th anniversary celebration"
+    ],
+    "description": "Model Rail Scotland 2026 exhibition returns to Hall 3 at the Scottish Event Campus Glasgow on Friday 27th (10.30am - 6pm) Saturday 28th (10.30am - 6pm) and Sunday 29th (10.30am - 5pm) March 2026. AMRSS Ltd the organisers of Model Rail Scotland, the UK's premier independent model railway exhibition.",
+    "latLng": "55.860401,-4.288375",
+    "url": "https://modelrail-scotland.co.uk/"
   }
 ]
