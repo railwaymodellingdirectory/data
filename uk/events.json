@@ -682,5 +682,37 @@
     "description": "The 41st Uckfield Model Railway Exhibition features a selection of some of the best quality layouts around with 20 layouts portraying British, American and Continental prototypes across multiple scales. The exhibition incorporates Scalefour Southeast regional event and includes full trade support with demonstration and society stands across two floors of the modern Uckfield Civic Centre in the town centre.",
     "latLng": "50.97077, 0.09518",
     "url": "https://www.uckfieldmrc.co.uk/exhibition.html"
+  },
+  {
+    "name": "The London Festival of Railway Modelling 2026",
+    "organizer": "World of Railways and The Model Railway Club",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-22",
+    "venue": "Alexandra Palace",
+    "address": "Alexandra Palace, London, N22 7AY",
+    "county": "London",
+    "layouts": "40+",
+    "traders": 90,
+    "features": [
+      "Over 90 leading trade stands",
+      "40+ inspiring layouts from top modellers",
+      "Multiple gauges and eras",
+      "Expert demonstrations",
+      "Club exhibits"
+    ],
+    "amenities": [
+      "Early entry from 9:30am for pre-booked ticket holders",
+      "Trade stands with tools, kits, scenery, and accessories",
+      "Demonstrations and expert tips"
+    ],
+    "specialFeatures": [
+      "25th anniversary celebration",
+      "Celebrating 25 years at Alexandra Palace",
+      "Showcases artistry, precision, and innovation in railway modelling",
+      "Welcoming space for both beginners and experienced hobbyists"
+    ],
+    "description": "For a quarter of a century, The London Festival of Railway Modelling has been the ultimate destination for enthusiasts, families, and collectors alike. Hosted in the iconic Alexandra Palace, this two-day event is a must for anyone passionate about railways, miniature engineering, and creative craftsmanship. Brought to you in association with The Model Railway Club and World of Railways, the 2026 event promises to be the biggest and best yet — showcasing the artistry, precision, and innovation that make railway modelling such a beloved pastime. Visitors can look forward to over 90 leading trade stands featuring tools, kits, scenery, and accessories, as well as 40+ inspiring layouts from top modellers across multiple gauges and eras.",
+    "latLng": "51.594404625647115, -0.13083245767222415",
+    "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/"
   }
 ]
