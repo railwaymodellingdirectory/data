@@ -723,8 +723,8 @@
     "venue": "Abingdon & Witney College, Abingdon Campus",
     "address": "Wootton Road, Abingdon, OX14 1GG",
     "county": "Oxfordshire",
-    "layouts": "Over 40 quality layouts",
-    "traders": 45,
+    "layouts": "45",
+    "traders": "10+",
     "features": [
       "45 Quality Layouts",
       "Traders & Society stands",
@@ -743,7 +743,7 @@
       "Covering most common gauges"
     ],
     "description": "ABRAIL 2026 is Oxfordshire's largest Model Railway Show featuring over 40 quality layouts spread through the classrooms and Sports Hall of the Abingdon & Witney College. The show has grown to be the largest Model Railway Show in Oxfordshire and one of the largest single-club shows in the country. With more than 4000 visitors over 2 days, the show features traders, society stands, and layouts covering most common gauges. The event is hosted by the Abingdon & District Model Railway Club (registered charity 1176029).",
-    "latLng": "51.6698,-1.2936",
+    "latLng": "51.68114973427655, -1.2863707733959908",
     "url": "https://abrail.org.uk/"
   }
 ]
