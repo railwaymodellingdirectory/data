@@ -780,5 +780,37 @@
     "description": "ABRAIL 2026 is Oxfordshire's largest Model Railway Show featuring over 40 quality layouts spread through the classrooms and Sports Hall of the Abingdon & Witney College. The show has grown to be the largest Model Railway Show in Oxfordshire and one of the largest single-club shows in the country. With more than 4000 visitors over 2 days, the show features traders, society stands, and layouts covering most common gauges. The event is hosted by the Abingdon & District Model Railway Club (registered charity 1176029).",
     "latLng": "51.68114973427655, -1.2863707733959908",
     "url": "https://abrail.org.uk/"
+  },
+  {
+    "name": "York Model Railway Show",
+    "organizer": "York Model Railway Show",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-06",
+    "venue": "Knavesmire Stand York Racecourse",
+    "address": "Knavesmire Stand, York Racecourse, York YO23 1EX",
+    "county": "North Yorkshire",
+    "layouts": "35",
+    "traders": "34",
+    "features": [
+      "Railway model layouts",
+      "Demonstrators",
+      "Societies exhibiting",
+      "Three day event"
+    ],
+    "amenities": [
+      "Box office on-site",
+      "Pre-paid tickets available",
+      "Discount for advance tickets"
+    ],
+    "specialFeatures": [
+      "61st annual show",
+      "Easter event",
+      "Best in railway modelling",
+      "Multiple exhibitors",
+      "Bachmann prizes available"
+    ],
+    "description": "York Model Railway Show is celebrating its 61st year in 2026. This three-day Easter event runs from Saturday 4 to Monday 6 April 2026 at York Racecourse. Open 10am-5pm on Saturday and Sunday, and 10am-4.30pm on Monday. The show features railway model layouts, demonstrators, societies, and traders. Pre-paid discounted tickets are available until Good Friday. A company limited by guarantee (Company number 10369624), the show is known as the best in railway modelling and takes place every Easter.",
+    "latLng": "53.94056588192844, -1.0917778359006978",
+    "url": "https://yorkshow.org.uk/"
   }
 ]
