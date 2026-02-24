@@ -689,7 +689,7 @@
     "startDate": "2026-03-21",
     "endDate": "2026-03-22",
     "venue": "Alexandra Palace",
-    "address": "Alexandra Palace, London",
+    "address": "Alexandra Palace, London, N22 7AY",
     "county": "London",
     "layouts": "40+",
     "traders": 90,
@@ -712,7 +712,7 @@
       "Welcoming space for both beginners and experienced hobbyists"
     ],
     "description": "For a quarter of a century, The London Festival of Railway Modelling has been the ultimate destination for enthusiasts, families, and collectors alike. Hosted in the iconic Alexandra Palace, this two-day event is a must for anyone passionate about railways, miniature engineering, and creative craftsmanship. Brought to you in association with The Model Railway Club and World of Railways, the 2026 event promises to be the biggest and best yet — showcasing the artistry, precision, and innovation that make railway modelling such a beloved pastime. Visitors can look forward to over 90 leading trade stands featuring tools, kits, scenery, and accessories, as well as 40+ inspiring layouts from top modellers across multiple gauges and eras.",
-    "latLng": "51.5897,-0.1202",
+    "latLng": "51.594404625647115, -0.13083245767222415",
     "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/"
   }
 ]
