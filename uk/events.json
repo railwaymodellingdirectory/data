@@ -789,8 +789,8 @@
     "venue": "Knavesmire Stand York Racecourse",
     "address": "Knavesmire Stand, York Racecourse, York YO23 1EX",
     "county": "North Yorkshire",
-    "layouts": "Multiple railway model layouts",
-    "traders": 0,
+    "layouts": "35",
+    "traders": "34",
     "features": [
       "Railway model layouts",
       "Demonstrators",
@@ -810,7 +810,7 @@
       "Bachmann prizes available"
     ],
     "description": "York Model Railway Show is celebrating its 61st year in 2026. This three-day Easter event runs from Saturday 4 to Monday 6 April 2026 at York Racecourse. Open 10am-5pm on Saturday and Sunday, and 10am-4.30pm on Monday. The show features railway model layouts, demonstrators, societies, and traders. Pre-paid discounted tickets are available until Good Friday. A company limited by guarantee (Company number 10369624), the show is known as the best in railway modelling and takes place every Easter.",
-    "latLng": "53.9397,-1.0927",
+    "latLng": "53.94056588192844, -1.0917778359006978",
     "url": "https://yorkshow.org.uk/"
   }
 ]
