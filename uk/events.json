@@ -721,10 +721,10 @@
     "startDate": "2026-03-07",
     "endDate": "2026-03-08",
     "venue": "Crosfield Hall",
-    "address": "Broadwater Road, Romsey",
+    "address": "Broadwater Road, Romsey, SO51 8GL",
     "county": "Hampshire",
-    "layouts": "Kaninchenbau, Royal Albert Bridge, Eheim Trolleybuses, North Quay, Rheilfford Waniwm, Foxwood, Somewhere in France, Tittesworth, ST Izzey, Montmelon, Brook Junction, Frattenbury, Slug Pit Row, Bramble Lock, Ashwood End, Connel Ferry Bridge, Kinale Cove, Kinal View, Teatray Halt, Brief Encounter, St Holden",
-    "traders": 2,
+    "layouts": "21",
+    "traders": "5",
     "features": [
       "Model Railway Layouts in various gauges including HOe, N, HO, 2mmFS, 009, O, OO, EM",
       "MERG displays",
@@ -747,7 +747,38 @@
       "Quality layouts from out of the box to scratch built"
     ],
     "description": "At the Romsey & District Railway Modellers Society will be holding their 46th Annual exhibition in the Crosfield Hall, Broadwater Road, Romsey. On Saturday,7th & Sunday, 8th March, The exhibition will be open from 10.30am on Saturday and 10.00am on Sunday. The aim of the exhibition is to show a cross section of the hobby with a variety of gauges, so there is something for everyone! Each year the Society makes donations to local charities and this year presentations totalling £1,000 will be made. Refreshments will be available both days. Admission: Adults £7, Children (5-16) £3, Family (2 + 2) £17. Parking is available at the Hall and there is FREE car parking on Sunday.",
-    "latLng": "50.98715900000002,-1.4968229999999494",
+    "latLng": "50.98710905579584, -1.4966835053346512",
     "url": "https://www.rdrms.com/exhibition-2026.html"
+  },
+  {
+    "name": "ABRAIL 2026",
+    "organizer": "Abingdon & District Model Railway Club",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08",
+    "venue": "Abingdon & Witney College, Abingdon Campus",
+    "address": "Wootton Road, Abingdon, OX14 1GG",
+    "county": "Oxfordshire",
+    "layouts": "45",
+    "traders": "10+",
+    "features": [
+      "45 Quality Layouts",
+      "Traders & Society stands",
+      "More than 4000 visitors over 2 days"
+    ],
+    "amenities": [
+      "Free parking on site",
+      "Parking at adjacent Fitzharris School",
+      "Town centre car parks nearby",
+      "Public bus routes available"
+    ],
+    "specialFeatures": [
+      "Oxfordshire's largest Model Railway Show",
+      "One of the largest single-club shows in the country",
+      "Early access for advance ticket holders (up to 30 minutes)",
+      "Covering most common gauges"
+    ],
+    "description": "ABRAIL 2026 is Oxfordshire's largest Model Railway Show featuring over 40 quality layouts spread through the classrooms and Sports Hall of the Abingdon & Witney College. The show has grown to be the largest Model Railway Show in Oxfordshire and one of the largest single-club shows in the country. With more than 4000 visitors over 2 days, the show features traders, society stands, and layouts covering most common gauges. The event is hosted by the Abingdon & District Model Railway Club (registered charity 1176029).",
+    "latLng": "51.68114973427655, -1.2863707733959908",
+    "url": "https://abrail.org.uk/"
   }
 ]
