@@ -689,10 +689,10 @@
     "startDate": "2026-03-14",
     "endDate": "2026-03-14",
     "venue": "Aerospace Bristol, Concorde Hanger",
-    "address": "Aerospace Bristol, Concorde Hanger",
+    "address": "Aerospace Bristol, Concorde Hanger, BS34 5BZ",
     "county": "Bristol",
-    "layouts": "Not specified",
-    "traders": 0,
+    "layouts": "49",
+    "traders": 18,
     "features": [
       "50th Anniversary celebration",
       "Held under the wings of Concorde",
@@ -707,7 +707,172 @@
       "Year-long ticket validity for other Aerospace Bristol events"
     ],
     "description": "To celebrate our 50th Anniversary, we are delighted and excited to announce that our 2026 Exhibition will be held at Aerospace Bristol, Concorde Hanger on 14 March 2026. Please join us to celebrate this under the wings of an iconic aeroplane and have a great day out. Not only that but your ticket is valid for a whole year to return free of charge to other events held by Aerospace Bristol for a whole year. There is free parking and easy access for all.",
-    "latLng": "",
+    "latLng": "51.5222815077189, -2.578831731959192",
     "url": "https://sodburyvalemrc.co.uk/march-2026-exhibition/"
+  },
+  {
+    "name": "The London Festival of Railway Modelling 2026",
+    "organizer": "World of Railways and The Model Railway Club",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-22",
+    "venue": "Alexandra Palace",
+    "address": "Alexandra Palace, London, N22 7AY",
+    "county": "London",
+    "layouts": "40+",
+    "traders": 90,
+    "features": [
+      "Over 90 leading trade stands",
+      "40+ inspiring layouts from top modellers",
+      "Multiple gauges and eras",
+      "Expert demonstrations",
+      "Club exhibits"
+    ],
+    "amenities": [
+      "Early entry from 9:30am for pre-booked ticket holders",
+      "Trade stands with tools, kits, scenery, and accessories",
+      "Demonstrations and expert tips"
+    ],
+    "specialFeatures": [
+      "25th anniversary celebration",
+      "Celebrating 25 years at Alexandra Palace",
+      "Showcases artistry, precision, and innovation in railway modelling",
+      "Welcoming space for both beginners and experienced hobbyists"
+    ],
+    "description": "For a quarter of a century, The London Festival of Railway Modelling has been the ultimate destination for enthusiasts, families, and collectors alike. Hosted in the iconic Alexandra Palace, this two-day event is a must for anyone passionate about railways, miniature engineering, and creative craftsmanship. Brought to you in association with The Model Railway Club and World of Railways, the 2026 event promises to be the biggest and best yet — showcasing the artistry, precision, and innovation that make railway modelling such a beloved pastime. Visitors can look forward to over 90 leading trade stands featuring tools, kits, scenery, and accessories, as well as 40+ inspiring layouts from top modellers across multiple gauges and eras.",
+    "latLng": "51.594404625647115, -0.13083245767222415",
+    "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/"
+  },
+  {
+    "name": "Model Rail Scotland",
+    "organizer": "AMRSS Ltd",
+    "startDate": "2026-03-27",
+    "endDate": "2026-03-29",
+    "venue": "Scottish Event Campus (SEC) Glasgow",
+    "address": "Hall 3, Scottish Event Campus Glasgow, G3 8YW",
+    "county": "Glasgow",
+    "layouts": "50+",
+    "traders": "130+",
+    "features": [
+      "60th Anniversary Show",
+      "Over 50 Layouts",
+      "130 Exhibitor Stands",
+      "Limited Edition Cavalex Colas class 56 'Peco 70 Years' model",
+      "DCC Ready and DCC sound formats available",
+      "Member Clubs section",
+      "Photo Gallery",
+      "Videos"
+    ],
+    "amenities": [
+      "Ticket desk accepts cash, credit/debit card, and applepay/androidpay",
+      "Cash free venue (except ticket desk)",
+      "Accessibility Guide available",
+      "FAQ section available"
+    ],
+    "specialFeatures": [
+      "UK's premier independent model railway exhibition",
+      "Limited edition model launch",
+      "60th anniversary celebration"
+    ],
+    "description": "Model Rail Scotland 2026 exhibition returns to Hall 3 at the Scottish Event Campus Glasgow on Friday 27th (10.30am - 6pm) Saturday 28th (10.30am - 6pm) and Sunday 29th (10.30am - 5pm) March 2026. AMRSS Ltd the organisers of Model Rail Scotland, the UK's premier independent model railway exhibition.",
+    "latLng": "55.86071417225957, -4.287815620188228",
+    "url": "https://modelrail-scotland.co.uk/"
+  },
+  {
+    "name": "Exhibition 2026",
+    "organizer": "Romsey & District Railway Modellers Society",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08",
+    "venue": "Crosfield Hall",
+    "address": "Broadwater Road, Romsey, SO51 8GL",
+    "county": "Hampshire",
+    "layouts": "21",
+    "traders": "5",
+    "features": [
+      "Model Railway Layouts in various gauges including HOe, N, HO, 2mmFS, 009, O, OO, EM",
+      "MERG displays",
+      "Display of Different Model Railway Scales",
+      "Display of Controllers Through the Ages",
+      "Display of modelling skills - trees",
+      "Light refreshments available",
+      "Charity donations to local charities"
+    ],
+    "amenities": [
+      "Parking available at the Hall",
+      "Free car parking on Sunday",
+      "Light refreshments available both days",
+      "Cash or Card payment accepted"
+    ],
+    "specialFeatures": [
+      "46th Annual exhibition",
+      "Cross section of the hobby with variety of gauges",
+      "Presentations totalling £1,000 to local charities",
+      "Quality layouts from out of the box to scratch built"
+    ],
+    "description": "At the Romsey & District Railway Modellers Society will be holding their 46th Annual exhibition in the Crosfield Hall, Broadwater Road, Romsey. On Saturday,7th & Sunday, 8th March, The exhibition will be open from 10.30am on Saturday and 10.00am on Sunday. The aim of the exhibition is to show a cross section of the hobby with a variety of gauges, so there is something for everyone! Each year the Society makes donations to local charities and this year presentations totalling £1,000 will be made. Refreshments will be available both days. Admission: Adults £7, Children (5-16) £3, Family (2 + 2) £17. Parking is available at the Hall and there is FREE car parking on Sunday.",
+    "latLng": "50.98710905579584, -1.4966835053346512",
+    "url": "https://www.rdrms.com/exhibition-2026.html"
+  },
+  {
+    "name": "ABRAIL 2026",
+    "organizer": "Abingdon & District Model Railway Club",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-08",
+    "venue": "Abingdon & Witney College, Abingdon Campus",
+    "address": "Wootton Road, Abingdon, OX14 1GG",
+    "county": "Oxfordshire",
+    "layouts": "45",
+    "traders": "10+",
+    "features": [
+      "45 Quality Layouts",
+      "Traders & Society stands",
+      "More than 4000 visitors over 2 days"
+    ],
+    "amenities": [
+      "Free parking on site",
+      "Parking at adjacent Fitzharris School",
+      "Town centre car parks nearby",
+      "Public bus routes available"
+    ],
+    "specialFeatures": [
+      "Oxfordshire's largest Model Railway Show",
+      "One of the largest single-club shows in the country",
+      "Early access for advance ticket holders (up to 30 minutes)",
+      "Covering most common gauges"
+    ],
+    "description": "ABRAIL 2026 is Oxfordshire's largest Model Railway Show featuring over 40 quality layouts spread through the classrooms and Sports Hall of the Abingdon & Witney College. The show has grown to be the largest Model Railway Show in Oxfordshire and one of the largest single-club shows in the country. With more than 4000 visitors over 2 days, the show features traders, society stands, and layouts covering most common gauges. The event is hosted by the Abingdon & District Model Railway Club (registered charity 1176029).",
+    "latLng": "51.68114973427655, -1.2863707733959908",
+    "url": "https://abrail.org.uk/"
+  },
+  {
+    "name": "York Model Railway Show",
+    "organizer": "York Model Railway Show",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-06",
+    "venue": "Knavesmire Stand York Racecourse",
+    "address": "Knavesmire Stand, York Racecourse, York YO23 1EX",
+    "county": "North Yorkshire",
+    "layouts": "35",
+    "traders": "34",
+    "features": [
+      "Railway model layouts",
+      "Demonstrators",
+      "Societies exhibiting",
+      "Three day event"
+    ],
+    "amenities": [
+      "Box office on-site",
+      "Pre-paid tickets available",
+      "Discount for advance tickets"
+    ],
+    "specialFeatures": [
+      "61st annual show",
+      "Easter event",
+      "Best in railway modelling",
+      "Multiple exhibitors",
+      "Bachmann prizes available"
+    ],
+    "description": "York Model Railway Show is celebrating its 61st year in 2026. This three-day Easter event runs from Saturday 4 to Monday 6 April 2026 at York Racecourse. Open 10am-5pm on Saturday and Sunday, and 10am-4.30pm on Monday. The show features railway model layouts, demonstrators, societies, and traders. Pre-paid discounted tickets are available until Good Friday. A company limited by guarantee (Company number 10369624), the show is known as the best in railway modelling and takes place every Easter.",
+    "latLng": "53.94056588192844, -1.0917778359006978",
+    "url": "https://yorkshow.org.uk/"
   }
 ]
