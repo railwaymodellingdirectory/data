@@ -684,6 +684,33 @@
     "url": "https://www.uckfieldmrc.co.uk/exhibition.html"
   },
   {
+    "name": "Sodbury Vale MRC 50th Anniversary Exhibition",
+    "organizer": "Sodbury Vale Model Railway Club",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-14",
+    "venue": "Aerospace Bristol, Concorde Hanger",
+    "address": "Aerospace Bristol, Concorde Hanger, BS34 5BZ",
+    "county": "Bristol",
+    "layouts": "49",
+    "traders": 18,
+    "features": [
+      "50th Anniversary celebration",
+      "Held under the wings of Concorde",
+      "Ticket valid for a whole year for return visits to Aerospace Bristol events"
+    ],
+    "amenities": [
+      "Free parking",
+      "Easy access for all"
+    ],
+    "specialFeatures": [
+      "Exhibition at iconic Aerospace Bristol location",
+      "Year-long ticket validity for other Aerospace Bristol events"
+    ],
+    "description": "To celebrate our 50th Anniversary, we are delighted and excited to announce that our 2026 Exhibition will be held at Aerospace Bristol, Concorde Hanger on 14 March 2026. Please join us to celebrate this under the wings of an iconic aeroplane and have a great day out. Not only that but your ticket is valid for a whole year to return free of charge to other events held by Aerospace Bristol for a whole year. There is free parking and easy access for all.",
+    "latLng": "51.5222815077189, -2.578831731959192",
+    "url": "https://sodburyvalemrc.co.uk/march-2026-exhibition/"
+  },
+  {
     "name": "The London Festival of Railway Modelling 2026",
     "organizer": "World of Railways and The Model Railway Club",
     "startDate": "2026-03-21",
