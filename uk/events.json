@@ -112,8 +112,8 @@
     "latLng": "51.24903, -0.56293",
     "url": "https://astolatmrc.co.uk/",
     "entry": {
-      "adult": null,
-      "children": null,
+      "adult": "£10",
+      "children": "Free",
       "family": null
     }
   },
@@ -200,9 +200,9 @@
     "latLng": "52.08664, -0.25019",
     "url": "https://ebmrs.org/club-exhibition/",
     "entry": {
-      "adult": null,
-      "children": null,
-      "family": null
+      "adult": "£7",
+      "children": "£3",
+      "family": "£17"
     }
   },
   {
@@ -244,8 +244,8 @@
     "latLng": "51.72376, -0.83782",
     "url": "https://www.railex.org.uk/doku.php",
     "entry": {
-      "adult": null,
-      "children": null,
+      "adult": "£14",
+      "children": "Free",
       "family": null
     }
   },
@@ -266,8 +266,8 @@
     "latLng": "51.19245, 0.27495",
     "url": "https://www.tonbridgemrc.com/exhibition",
     "entry": {
-      "adult": null,
-      "children": null,
+      "adult": "£8",
+      "children": "Free",
       "family": null
     }
   },
@@ -335,9 +335,9 @@
     "latLng": "51.59448, -0.13053",
     "url": "https://www.world-of-railways.co.uk/information/the-london-festival-of-railway-modelling",
     "entry": {
-      "adult": null,
-      "children": null,
-      "family": null
+      "adult": "£18",
+      "children": "£8",
+      "family": "£40"
     }
   },
   {
@@ -371,9 +371,9 @@
     "latLng": "52.5693, -0.2358",
     "url": "https://www.world-of-railways.co.uk/information/the-festival-of-british-railway-modelling",
     "entry": {
-      "adult": null,
-      "children": null,
-      "family": null
+      "adult": "£17",
+      "children": "£7",
+      "family": "£35"
     }
   },
   {
