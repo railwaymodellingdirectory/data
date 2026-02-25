@@ -19,7 +19,12 @@
       "Refreshments"
     ],
     "transport": "Free heritage bus service between college and Eastleigh/Southampton Airport Parkway stations approximately every half hour from 9:30am",
-    "description": "Barton Peveril College is about 1 1/2 miles from M3 Junc 13 or M27 Junc 5 and will be AA signed from shortly after the junctions. Eastleigh and Southampton Airport Parkway stations are both about 25 mins walk."
+    "description": "Barton Peveril College is about 1 1/2 miles from M3 Junc 13 or M27 Junc 5 and will be AA signed from shortly after the junctions. Eastleigh and Southampton Airport Parkway stations are both about 25 mins walk.",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Irvine Model Railway Exhibition",
@@ -33,7 +38,12 @@
       "Free Parking",
       "Refreshments"
     ],
-    "description": "After a very successful Exhibition in the Scottish Maritime Museum in 2022 it has been agreed that there will be an Exhibition in 2023."
+    "description": "After a very successful Exhibition in the Scottish Maritime Museum in 2022 it has been agreed that there will be an Exhibition in 2023.",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Model Railway Exhibition",
@@ -53,7 +63,12 @@
       "Free Parking",
       "Refreshments"
     ],
-    "description": "Annual exhibition celebrating 60 years since the founding of Kendal Model Railway Club"
+    "description": "Annual exhibition celebrating 60 years since the founding of Kendal Model Railway Club",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Longfield Model Railway Exhibition 2023",
@@ -73,7 +88,12 @@
       "Free Parking",
       "Refreshments"
     ],
-    "description": "The Erith Model Railway Society's January Exhibition, one of South East England's largest shows (And probably Kent's largest by stand numbers), will return to the Longfield Academy for our 6th show there (And our first since 2020). The show will continue to encompass at least 30 layouts, extensive trade and society support, demonstrators, static exhibits and charity raffle, making nearly 90 stands in total."
+    "description": "The Erith Model Railway Society's January Exhibition, one of South East England's largest shows (And probably Kent's largest by stand numbers), will return to the Longfield Academy for our 6th show there (And our first since 2020). The show will continue to encompass at least 30 layouts, extensive trade and society support, demonstrators, static exhibits and charity raffle, making nearly 90 stands in total.",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Astolat Model Railway Club Exhibition",
@@ -90,7 +110,12 @@
     "admission": "",
     "description": "TBC",
     "latLng": "51.24903, -0.56293",
-    "url": "https://astolatmrc.co.uk/"
+    "url": "https://astolatmrc.co.uk/",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Exhibition",
@@ -107,7 +132,12 @@
     "specialFeatures": [],
     "description": "Step aboard for a journey through miniature worlds! Basingstoke & North Hants Model Railway Society is thrilled to host another highly anticipated Model Railway Show in 2026, Where the magic of railways comes to life in stunning detail! Please join us to see a great line-up of Layouts, Societies, and Traders!",
     "latLng": "51.25442, -1.11723",
-    "url": "https://basingstokemrs.uk/basingstoke-model-railway-show-2026/"
+    "url": "https://basingstokemrs.uk/basingstoke-model-railway-show-2026/",
+    "entry": {
+      "adult": "£10",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Exhibition",
@@ -124,7 +154,12 @@
     "specialFeatures": [],
     "description": "Join us for a special Model Railway Exhibition at Denbies Wine Estate, celebrating the 40th Anniversary of Roxley Models, set against the stunning backdrop of the Surrey Hills. This family-friendly event is perfect for enthusiasts, hobbyists, and anyone curious about the world of model railways. ",
     "latLng": "51.24815, -0.33186",
-    "url": "https://www.roxleymodels.co.uk/article_info.php?articles_id=24"
+    "url": "https://www.roxleymodels.co.uk/article_info.php?articles_id=24",
+    "entry": {
+      "adult": "£5",
+      "children": "£3",
+      "family": "£15"
+    }
   },
   {
     "name": "Febex 2026",
@@ -141,7 +176,12 @@
     "specialFeatures": [],
     "description": "",
     "latLng": "51.15985, -0.95914",
-    "url": "https://febex.co.uk/"
+    "url": "https://febex.co.uk/",
+    "entry": {
+      "adult": "£8",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Club Exhibition",
@@ -158,7 +198,12 @@
     "specialFeatures": [],
     "description": "",
     "latLng": "52.08664, -0.25019",
-    "url": "https://ebmrs.org/club-exhibition/"
+    "url": "https://ebmrs.org/club-exhibition/",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "RISEX",
@@ -175,7 +220,12 @@
     "specialFeatures": [],
     "description": "",
     "latLng": "51.72376, -0.83782",
-    "url": "https://www.rdmrc.org.uk/doku.php?id=exhibitions:risex:risex26"
+    "url": "https://www.rdmrc.org.uk/doku.php?id=exhibitions:risex:risex26",
+    "entry": {
+      "adult": "£7",
+      "children": "£1",
+      "family": null
+    }
   },
   {
     "name": "RAILEX",
@@ -192,7 +242,12 @@
     "specialFeatures": [],
     "description": "",
     "latLng": "51.72376, -0.83782",
-    "url": "https://www.railex.org.uk/doku.php"
+    "url": "https://www.railex.org.uk/doku.php",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Exhibition",
@@ -209,7 +264,12 @@
     "specialFeatures": [],
     "description": "",
     "latLng": "51.19245, 0.27495",
-    "url": "https://www.tonbridgemrc.com/exhibition"
+    "url": "https://www.tonbridgemrc.com/exhibition",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Exhibition 2026",
@@ -237,7 +297,12 @@
     ],
     "description": "Annual model railway exhibition organized by Hampton Court Model Railway Society featuring multiple layouts across different scales, trade stands, and refreshments. ",
     "latLng": "51.37552, -0.29629",
-    "url": "https://www.hamptoncourtmrs.co.uk/showtrain/showtrain%202026.html"
+    "url": "https://www.hamptoncourtmrs.co.uk/showtrain/showtrain%202026.html",
+    "entry": {
+      "adult": "£10",
+      "children": "£3",
+      "family": "£21"
+    }
   },
   {
     "name": "The London Festival of Railway Modelling",
@@ -268,7 +333,12 @@
     ],
     "description": "The London Festival of Railway Modelling is one of the UK's premier model railway exhibitions, featuring over 50 layouts covering all scales and gauges, more than 80 traders, demonstrations, and special guests. Held at the iconic Alexandra Palace, this two-day event showcases the best of railway modelling.",
     "latLng": "51.59448, -0.13053",
-    "url": "https://www.world-of-railways.co.uk/information/the-london-festival-of-railway-modelling"
+    "url": "https://www.world-of-railways.co.uk/information/the-london-festival-of-railway-modelling",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "The Festival of British Railway Modelling - Exhibition",
@@ -299,7 +369,12 @@
     ],
     "description": "The Festival of British Railway Modelling is the UK's largest model railway exhibition featuring layouts in all scales and gauges, over 100 trade stands, demonstrations, workshops and activities for all the family.",
     "latLng": "52.5693, -0.2358",
-    "url": "https://www.world-of-railways.co.uk/information/the-festival-of-british-railway-modelling"
+    "url": "https://www.world-of-railways.co.uk/information/the-festival-of-british-railway-modelling",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "The International N Gauge Show - Exhibition",
@@ -330,7 +405,12 @@
     ],
     "description": "The International N Gauge Show is one of the premier N Gauge exhibitions in the UK, featuring around 60 layouts from across the country and internationally, alongside approximately 40 trade stands. The show includes demonstrations, competitions, and provides a comprehensive showcase of N Gauge railway modelling.",
     "latLng": "52.27047, -1.46880",
-    "url": "https://www.meridienneexhibitions.co.uk/events/the-international-n-gauge-show"
+    "url": "https://www.meridienneexhibitions.co.uk/events/the-international-n-gauge-show",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "BMRE 2026",
@@ -347,7 +427,12 @@
     "specialFeatures": [],
     "description": "All aboard the Bournemouth model railway exhibition 2026. After a very successful exhibition in 2025 that saw 1,111 visitors attend the show at the Hamworthy club. Join us at our new venue, Kinson community centre. With over 24 layouts and full trade and society's attending.",
     "latLng": "50.77139, -1.90056",
-    "url": "https://bmre.org.uk/"
+    "url": "https://bmre.org.uk/",
+    "entry": {
+      "adult": "£8",
+      "children": "£1",
+      "family": null
+    }
   },
   {
     "name": "Railex 2026",
@@ -379,7 +464,12 @@
     ],
     "description": "Portsmouth Railex returns to Horndean Technology College on 21st & 22nd February 2026 showcasing 20+ layouts of various gauges from around the UK. Supported by traders and societies. A must visit exhibition for model railway enthusiasts and families of all ages.",
     "latLng": "50.91341, -1.01007",
-    "url": "https://portsmouthrailex.wixsite.com/website"
+    "url": "https://portsmouthrailex.wixsite.com/website",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Exhibition",
@@ -396,7 +486,12 @@
     "specialFeatures": [],
     "description": "",
     "latLng": "53.23579, -0.53829",
-    "url": ""
+    "url": "",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Weston-Super-Mare Show 2026",
@@ -413,7 +508,12 @@
     "specialFeatures": [],
     "description": "Annual model railway exhibition hosted by Burnham District Model Railway Club at Priory Community School, featuring around 20 layouts and 15 trade stands over two days.",
     "latLng": "51.36385, -2.90993",
-    "url": "https://bdmrc.co.uk/weston-super-mare-2026/"
+    "url": "https://bdmrc.co.uk/weston-super-mare-2026/",
+    "entry": {
+      "adult": "£8",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Model World LIVE 2026",
@@ -456,7 +556,12 @@
     ],
     "description": "Join us for an unmissable weekend of railway and scale modelling. Model World LIVE 2026 brings together railway, scale and radio control modellers in one outstanding event featuring over 190 stands with the best in modelling. The 2026 show is sponsored by Bachmann, Pocketbond, Model Collect Create, Hornby Magazine and Airfix Model World. Doors open at 10am (9:30am for advance ticket holders) until 5pm on Saturday and until 4pm on Sunday.",
     "latLng": "52.4547,-1.7205",
-    "url": "https://www.keymodelworld.com/modelworldlive"
+    "url": "https://www.keymodelworld.com/modelworldlive",
+    "entry": {
+      "adult": "£20",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Exhibition",
@@ -481,7 +586,12 @@
     ],
     "description": "Saturday 10am to 5pm, Sunday 10am to 4pm. Adults: £9, Accompanied children under 15: Free, Wheelchair/Scooter Users: £5. Easy access from M6/M55/A6.",
     "latLng": "53.78388, -2.70049",
-    "url": "http://www.prestonanddistrictmrs.org.uk/exhibition/"
+    "url": "http://www.prestonanddistrictmrs.org.uk/exhibition/",
+    "entry": {
+      "adult": "£9",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Exhibition",
@@ -503,7 +613,12 @@
     "specialFeatures": [],
     "description": "On behalf of the Railway Heritage and Model Society Charity No: 1065019. Approximately 17 layouts in gauges from N to SM32, modelling demonstrations and full trade support from a wide range of vendors will be present. First Bus Services 28/29/X29 run to Hellesdon Hospital, then a 5 minute stroll to the venue. Admission £6, accompanied U/16 free. Cash and Card Welcome.",
     "latLng": "52.66047, 1.25646",
-    "url": "https://norhams.org.uk/wordpress/exhibition/"
+    "url": "https://norhams.org.uk/wordpress/exhibition/",
+    "entry": {
+      "adult": "£6",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Exhibition 2026",
@@ -520,7 +635,12 @@
     "specialFeatures": [],
     "description": "Adult ticket £8.00, Under 16s free. 10am til 4pm. Proudly sponsored by Accurascale.",
     "latLng": "54.61239, -1.58831",
-    "url": "https://www.darlingtonmrc.co.uk"
+    "url": "https://www.darlingtonmrc.co.uk",
+    "entry": {
+      "adult": "£8",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Model Railway Exhibition",
@@ -543,7 +663,12 @@
     "specialFeatures": [],
     "description": "Layouts in various scales, Trade & Light Refreshments Available. Cash only entrance. Accessible by bus No.11 to St Marys Avenue bus stop & then a 1 minute walk to Green Road.",
     "latLng": "50.78569519610916, -1.1481399174432523",
-    "url": "www.gosportrailroadgroup.org.uk"
+    "url": "www.gosportrailroadgroup.org.uk",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Cheltenham Model Railway Exhibition",
@@ -568,7 +693,12 @@
     ],
     "description": "Adults £6.00, Children £2.00, Family £12.00 - Cash Only. Donation to WaterAid.",
     "latLng": "51.88914623335303, -2.1093216953595184",
-    "url": "https://www.cheltmodrail.org.uk"
+    "url": "https://www.cheltmodrail.org.uk",
+    "entry": {
+      "adult": "£6",
+      "children": "£2",
+      "family": "£12"
+    }
   },
   {
     "name": "23rd Annual Model Railway Show",
@@ -592,7 +722,12 @@
     ],
     "description": "Admission £5.00. Accompanied U16's FREE. Opening time 10am - 4.00pm. The organisers reserve the right to refuse admission.",
     "latLng": "53.00987499022711,-1.3513406280492246",
-    "url": "https://www.ilkestonwoodsidemrc.co.uk/"
+    "url": "https://www.ilkestonwoodsidemrc.co.uk/",
+    "entry": {
+      "adult": "£5",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Open Day",
@@ -614,7 +749,12 @@
     "specialFeatures": [],
     "description": "Open Day with club shop selling quality pre-owned N gauge at competitive prices. Adults £1.00, Children free.",
     "latLng": "50.83449, -0.34590",
-    "url": "www.wsng.co.uk"
+    "url": "www.wsng.co.uk",
+    "entry": {
+      "adult": "£1",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "Model Railway Exhibition",
@@ -643,7 +783,12 @@
     ],
     "description": "Join us for a fascinating day at Tenterden, featuring unique model railway layouts, all displayed within our large on-site marquee. Enthusiasts and families alike can explore a wide variety of detailed and imaginative layouts, brought together by passionate modellers. In addition to the layouts, there will be a range of traders offering model railway supplies and collectibles. Don't miss this fun-filled event for model railway fans of all ages!",
     "latLng": "51.06952, 0.68510",
-    "url": "https://kesr.org.uk/model-railway-exhibition-22nd-aug/"
+    "url": "https://kesr.org.uk/model-railway-exhibition-22nd-aug/",
+    "entry": {
+      "adult": "£5",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "41st Exhibition",
@@ -681,7 +826,12 @@
     ],
     "description": "The 41st Uckfield Model Railway Exhibition features a selection of some of the best quality layouts around with 20 layouts portraying British, American and Continental prototypes across multiple scales. The exhibition incorporates Scalefour Southeast regional event and includes full trade support with demonstration and society stands across two floors of the modern Uckfield Civic Centre in the town centre.",
     "latLng": "50.97077, 0.09518",
-    "url": "https://www.uckfieldmrc.co.uk/exhibition.html"
+    "url": "https://www.uckfieldmrc.co.uk/exhibition.html",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Sodbury Vale MRC 50th Anniversary Exhibition",
@@ -708,7 +858,12 @@
     ],
     "description": "To celebrate our 50th Anniversary, we are delighted and excited to announce that our 2026 Exhibition will be held at Aerospace Bristol, Concorde Hanger on 14 March 2026. Please join us to celebrate this under the wings of an iconic aeroplane and have a great day out. Not only that but your ticket is valid for a whole year to return free of charge to other events held by Aerospace Bristol for a whole year. There is free parking and easy access for all.",
     "latLng": "51.5222815077189, -2.578831731959192",
-    "url": "https://sodburyvalemrc.co.uk/march-2026-exhibition/"
+    "url": "https://sodburyvalemrc.co.uk/march-2026-exhibition/",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "The London Festival of Railway Modelling 2026",
@@ -740,7 +895,12 @@
     ],
     "description": "For a quarter of a century, The London Festival of Railway Modelling has been the ultimate destination for enthusiasts, families, and collectors alike. Hosted in the iconic Alexandra Palace, this two-day event is a must for anyone passionate about railways, miniature engineering, and creative craftsmanship. Brought to you in association with The Model Railway Club and World of Railways, the 2026 event promises to be the biggest and best yet — showcasing the artistry, precision, and innovation that make railway modelling such a beloved pastime. Visitors can look forward to over 90 leading trade stands featuring tools, kits, scenery, and accessories, as well as 40+ inspiring layouts from top modellers across multiple gauges and eras.",
     "latLng": "51.594404625647115, -0.13083245767222415",
-    "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/"
+    "url": "https://www.world-of-railways.co.uk/the-london-festival-of-railway-modelling/",
+    "entry": {
+      "adult": null,
+      "children": null,
+      "family": null
+    }
   },
   {
     "name": "Model Rail Scotland",
@@ -775,7 +935,12 @@
     ],
     "description": "Model Rail Scotland 2026 exhibition returns to Hall 3 at the Scottish Event Campus Glasgow on Friday 27th (10.30am - 6pm) Saturday 28th (10.30am - 6pm) and Sunday 29th (10.30am - 5pm) March 2026. AMRSS Ltd the organisers of Model Rail Scotland, the UK's premier independent model railway exhibition.",
     "latLng": "55.86071417225957, -4.287815620188228",
-    "url": "https://modelrail-scotland.co.uk/"
+    "url": "https://modelrail-scotland.co.uk/",
+    "entry": {
+      "adult": "£18",
+      "children": "£5",
+      "family": "£40"
+    }
   },
   {
     "name": "Exhibition 2026",
@@ -810,7 +975,12 @@
     ],
     "description": "At the Romsey & District Railway Modellers Society will be holding their 46th Annual exhibition in the Crosfield Hall, Broadwater Road, Romsey. On Saturday,7th & Sunday, 8th March, The exhibition will be open from 10.30am on Saturday and 10.00am on Sunday. The aim of the exhibition is to show a cross section of the hobby with a variety of gauges, so there is something for everyone! Each year the Society makes donations to local charities and this year presentations totalling £1,000 will be made. Refreshments will be available both days. Admission: Adults £7, Children (5-16) £3, Family (2 + 2) £17. Parking is available at the Hall and there is FREE car parking on Sunday.",
     "latLng": "50.98710905579584, -1.4966835053346512",
-    "url": "https://www.rdrms.com/exhibition-2026.html"
+    "url": "https://www.rdrms.com/exhibition-2026.html",
+    "entry": {
+      "adult": "£7",
+      "children": "£3",
+      "family": "£17"
+    }
   },
   {
     "name": "ABRAIL 2026",
@@ -841,7 +1011,12 @@
     ],
     "description": "ABRAIL 2026 is Oxfordshire's largest Model Railway Show featuring over 40 quality layouts spread through the classrooms and Sports Hall of the Abingdon & Witney College. The show has grown to be the largest Model Railway Show in Oxfordshire and one of the largest single-club shows in the country. With more than 4000 visitors over 2 days, the show features traders, society stands, and layouts covering most common gauges. The event is hosted by the Abingdon & District Model Railway Club (registered charity 1176029).",
     "latLng": "51.68114973427655, -1.2863707733959908",
-    "url": "https://abrail.org.uk/"
+    "url": "https://abrail.org.uk/",
+    "entry": {
+      "adult": "£13",
+      "children": "Free",
+      "family": null
+    }
   },
   {
     "name": "York Model Railway Show",
@@ -873,6 +1048,11 @@
     ],
     "description": "York Model Railway Show is celebrating its 61st year in 2026. This three-day Easter event runs from Saturday 4 to Monday 6 April 2026 at York Racecourse. Open 10am-5pm on Saturday and Sunday, and 10am-4.30pm on Monday. The show features railway model layouts, demonstrators, societies, and traders. Pre-paid discounted tickets are available until Good Friday. A company limited by guarantee (Company number 10369624), the show is known as the best in railway modelling and takes place every Easter.",
     "latLng": "53.94056588192844, -1.0917778359006978",
-    "url": "https://yorkshow.org.uk/"
+    "url": "https://yorkshow.org.uk/",
+    "entry": {
+      "adult": "£15",
+      "children": "£2",
+      "family": "£32"
+    }
   }
 ]
