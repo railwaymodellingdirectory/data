@@ -1054,5 +1054,46 @@
       "children": "£2",
       "family": "£32"
     }
+  },
+  {
+    "name": "Plymouth Model Railway Show",
+    "organizer": "Plym Valley Railway Association & Chris' Crafts & Model Railways",
+    "startDate": "2026-03-01T10:00:00",
+    "endDate": "2026-03-01T16:00:00",
+    "venue": "YMCA Kitto Centre",
+    "address": "Honicknowle Lane, Plymouth, PL5 3NG",
+    "county": "Devon",
+    "layouts": "20+",
+    "traders": 5,
+    "features": [
+      "20+ layouts",
+      "OO Gauge layouts including Gara Bridge, Pursey, Rosebury Goods, Glasgow St Joans, Ditcheat Junction, Wearde Layout, Cardiff Canton",
+      "O Gauge layouts including Elm Engineering, This Way",
+      "N Gauge layouts including Moor Boxes, New layout WIP",
+      "Other scales including Nashawannuck & Western Railroad (H0N30), Kleine Albula, Plymouth Brick Railway, Reilffordd Gryffndwr (OO9)",
+      "Miniature railway",
+      "Trade support from Chris' Crafts Model Railways, Moor-View Models, Plym Valley Railway Association, Miniocity, Bob's Trains"
+    ],
+    "amenities": [
+      "Free parking",
+      "Good public transport links",
+      "Bus service No: 61 from Plymouth City Centre",
+      "Cash or Card accepted",
+      "Pre-booking available"
+    ],
+    "specialFeatures": [
+      "Free entry for Plym Valley Railway Association members who join at the show",
+      "Wide range of new and second-hand railway items",
+      "3D printed figures available",
+      "Card kits, figures & scenery available"
+    ],
+    "description": "The Plym Valley Railway Association & Chris' Crafts & Model Railways welcomes you to our 2nd Plymouth Model Railway Show! We are looking forward to welcoming 20+ layouts, trade support and a miniature railway to the show. With a NEW LARGER VENUE with free parking and good public transport links it's looking to be another great event.",
+    "latLng": "50.4157,-4.1425",
+    "url": "https://www.plymrail.co.uk/show-information",
+    "entry": {
+      "adult": "£6.00",
+      "children": "£1.00",
+      "family": "Free for children under 16 when accompanied by an adult"
+    }
   }
 ]
