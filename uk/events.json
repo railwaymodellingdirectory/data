@@ -1058,8 +1058,8 @@
   {
     "name": "Plymouth Model Railway Show",
     "organizer": "Plym Valley Railway Association & Chris' Crafts & Model Railways",
-    "startDate": "2026-03-01T10:00:00",
-    "endDate": "2026-03-01T16:00:00",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-01",
     "venue": "YMCA Kitto Centre",
     "address": "Honicknowle Lane, Plymouth, PL5 3NG",
     "county": "Devon",
@@ -1088,12 +1088,12 @@
       "Card kits, figures & scenery available"
     ],
     "description": "The Plym Valley Railway Association & Chris' Crafts & Model Railways welcomes you to our 2nd Plymouth Model Railway Show! We are looking forward to welcoming 20+ layouts, trade support and a miniature railway to the show. With a NEW LARGER VENUE with free parking and good public transport links it's looking to be another great event.",
-    "latLng": "50.4157,-4.1425",
+    "latLng": "50.402564506475784, -4.154148499505375",
     "url": "https://www.plymrail.co.uk/show-information",
     "entry": {
       "adult": "£6.00",
       "children": "£1.00",
-      "family": "Free for children under 16 when accompanied by an adult"
+      "family": ""
     }
   }
 ]
