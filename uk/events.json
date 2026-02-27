@@ -1095,5 +1095,35 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "Model Railway Show",
+    "organizer": "Beckenham and West Wickham Model Railway Club",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-14",
+    "venue": "Forest Hill Boys School",
+    "address": "Dacres Road, Forest Hill, London SE23 2XN",
+    "county": "London",
+    "layouts": "Up to 20",
+    "traders": null,
+    "features": [
+      "Beckwick layout as seen in Hornby Magazine"
+    ],
+    "amenities": [
+      "Trade Stands & Refreshments",
+      "Card Payments Available",
+      "Fully Accessible to Hand Powered Wheelchairs"
+    ],
+    "specialFeatures": [
+      "Save £2.00 on Purchase Ticket Early"
+    ],
+    "description": "",
+    "latLng": "51.4521, -0.0536",
+    "url": "www.bwwmrc.co.uk",
+    "entry": {
+      "adult": "£10.00",
+      "children": "FREE (up to 16)",
+      "family": null
+    }
   }
 ]
