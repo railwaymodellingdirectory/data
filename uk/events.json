@@ -1095,5 +1095,31 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "Model Rail Crewe",
+    "organizer": "The Coppenhall Club",
+    "startDate": "2026-05-31",
+    "endDate": "2026-05-31",
+    "venue": "The Coppenhall Club",
+    "address": "103 North Street, Crewe, Cheshire. CW1 4NJ",
+    "county": "Cheshire",
+    "layouts": "",
+    "traders": "",
+    "features": [
+      "FREE Park & Ride Shuttle Bus"
+    ],
+    "amenities": [],
+    "specialFeatures": [
+      "Supported Charity: St Luke's Cheshire Hospice"
+    ],
+    "description": "Model Railway Exhibition",
+    "latLng": "53.1001,-2.4403",
+    "url": "https://modelrailcrewe.uk",
+    "entry": {
+      "adult": "£8 On The Door / £7 Online",
+      "children": "Accompanied Under 12's FREE ENTRY",
+      "family": ""
+    }
   }
 ]
