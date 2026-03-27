@@ -1095,5 +1095,44 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "SOUTH NOTTS Model Railway Show",
+    "organizer": "Bingham Model Railway Club",
+    "startDate": "2026-03-28",
+    "endDate": "2026-03-29",
+    "venue": "Cotgrave Welfare",
+    "address": "Woodview, Cotgrave, Nottingham, NG12 3PJ",
+    "county": "Nottinghamshire",
+    "layouts": "17",
+    "traders": 12,
+    "features": [
+      "17 Layouts",
+      "12 Traders",
+      "Society displays",
+      "Demonstrators",
+      "Loco Clinic",
+      "Weathering demonstrations",
+      "Children's interactive layout"
+    ],
+    "amenities": [
+      "Wheelchair accessible with reduced admission",
+      "Free admission for accompanied children under 16"
+    ],
+    "specialFeatures": [
+      "Thomas-based children's layout (Cumanavago) with driver certificates",
+      "Working ballast loader demonstration",
+      "3D printing for charity stall",
+      "Bespoke weathering service available while you wait",
+      "Cardboard model making demonstrations"
+    ],
+    "description": "A model railway exhibition featuring 17 layouts in various scales (OO, N, HO, O-16.5), 12 traders, societies, and demonstrators. The show includes layouts ranging from British heritage railways to American and German themes, spanning different eras from the 1950s to present day. Special attractions include a Thomas-themed children's layout where young visitors can become engine drivers with certificates, live demonstrations of weathering techniques, loco maintenance clinic, and cardboard model making. Traders offer new and pre-owned models, railway books, accessories, and custom items. Society stands represent the Great Central Railway, Great Northern Railway Society, and others. Some areas accessible only via steps.",
+    "latLng": "52.908306430860925, -1.0352868512847742",
+    "url": "https://www.bingham-model-rail.co.uk/",
+    "entry": {
+      "adult": "£7.00",
+      "children": "Free (under 16 when accompanied)",
+      "family": "Reduced admission for disabled visitors/wheelchair users"
+    }
   }
 ]
