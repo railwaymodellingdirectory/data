@@ -1,0 +1,27 @@
+name: Notify Webhook on PR Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  notify:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: POST to webhook
+        run: |
+          curl -s -o /dev/null -w "%{http_code}" \
+            -X POST \
+            -H "Content-Type: application/json" \
+            -d '{
+              "pr_number": ${{ github.event.pull_request.number }},
+              "pr_title": ${{ toJson(github.event.pull_request.title) }},
+              "pr_url": ${{ toJson(github.event.pull_request.html_url) }},
+              "merged_by": ${{ toJson(github.event.pull_request.merged_by.login) }},
+              "merged_at": ${{ toJson(github.event.pull_request.merged_at) }},
+              "repository": ${{ toJson(github.repository) }}
+            }' \
+            ${{ vars.DEPLOY_WEBHOOK_URL }}
