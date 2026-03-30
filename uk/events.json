@@ -1143,8 +1143,8 @@
     "venue": "Dewars Centre",
     "address": "Dewars Centre, Perth",
     "county": "Perthshire",
-    "layouts": "Information not yet published",
-    "traders": 0,
+    "layouts": "30+",
+    "traders": "15+",
     "features": [
       "Model railway layouts",
       "Traders",
@@ -1162,12 +1162,12 @@
       "Online ticket purchasing through Perthshire Box Office"
     ],
     "description": "The Perth Model Railway Show is an annual exhibition featuring a fantastic range of layouts, traders and societies. The 2026 exhibition will be held at the Dewars Centre in Perth on 27-28 June, opening from 10am to 5pm each day. Advanced tickets are available for purchase, offering early entry at 9:30am and the ability to skip the ticket queue.",
-    "latLng": "56.3950,-3.4370",
+    "latLng": "56.3947713490161, -3.44423977437718",
     "url": "https://smet.org.uk/show/",
     "entry": {
-      "adult": "Available via Perthshire Box Office - price not specified",
-      "children": "Not specified",
-      "family": "Not specified"
+      "adult": "£10",
+      "children": "£3",
+      "family": ""
     }
   }
 ]
