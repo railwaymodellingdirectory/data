@@ -1208,5 +1208,27 @@
       "children": "£1.00 (ages 6-16), under 6 free",
       "family": ""
     }
+  },
+  {
+    "name": "Lymington Model Railway Exhibition",
+    "organizer": "Lymington Community Association",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-05",
+    "venue": "Lymington Community Centre",
+    "address": "New Street, Lymington, SO41 9BQ",
+    "county": "Hampshire",
+    "layouts": "",
+    "traders": "",
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "50.75793, -1.54388",
+    "url": "",
+    "entry": {
+      "adult": "£7",
+      "children": "£1 (5-16 years), Under 5's free",
+      "family": ""
+    }
   }
 ]
