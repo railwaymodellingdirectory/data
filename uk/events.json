@@ -1169,5 +1169,44 @@
       "children": "£3",
       "family": ""
     }
+  },
+  {
+    "name": "MRX Exhibition",
+    "organizer": "High Wycombe & District Model Railway Society",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-11",
+    "venue": "CRESSEX COMMUNITY CENTRE",
+    "address": "203 Cressex Road, High Wycombe, Buckinghamshire, HP12 4PZ",
+    "county": "Buckinghamshire",
+    "layouts": "11",
+    "traders": 4,
+    "features": [
+      "Quality local friendly show",
+      "Small and intimate vibe",
+      "High standard of quality and inspirational layouts",
+      "Members on hand to answer questions and offer advice",
+      "Have a go shunting puzzles"
+    ],
+    "amenities": [
+      "Hot and cold drinks available",
+      "Snacks available",
+      "Cakes",
+      "Disabled parking on-site subject to availability",
+      "Free on-street parking nearby"
+    ],
+    "specialFeatures": [
+      "Junior modellers layout (Mothecombe)",
+      "Shunting puzzle layouts",
+      "Mix of scales: 00, EM, N, 009, HO, 0",
+      "Steam, diesel and narrow gauge themes"
+    ],
+    "description": "MRX26 continues the Society's Wycrail exhibition experience, with a high standard of quality and inspirational layouts in a small and intimate vibe venue. The show has gained a great reputation as a quality local friendly show. Featuring 11 layouts across various scales including 00, EM, N, 009, HO, and 0 gauge, with themes ranging from 1960s steam and diesel to narrow gauge and industrial shunting puzzles. The exhibition includes the Society's Junior Modellers layout 'Mothecombe'.",
+    "latLng": "51.61571051931673, -0.7858768156861626",
+    "url": "https://www.hwdmrs.org.uk/mrxexhibition/",
+    "entry": {
+      "adult": "£6.00",
+      "children": "£1.00 (ages 6-16), under 6 free",
+      "family": ""
+    }
   }
 ]
