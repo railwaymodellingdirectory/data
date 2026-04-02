@@ -1230,5 +1230,44 @@
       "children": "£1 (5-16 years), Under 5's free",
       "family": ""
     }
+  },
+  {
+    "name": "Macclesfield Model Railway Group Exhibition",
+    "organizer": "Macclesfield Model Railway Group",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-07",
+    "venue": "Macclesfield Leisure Centre",
+    "address": "Priory Lane, Macclesfield",
+    "county": "Cheshire",
+    "layouts": "Multiple layouts",
+    "traders": 0,
+    "features": [
+      "Model railway layouts",
+      "Traders",
+      "Demonstrators",
+      "Free vintage bus service from station via bus station and town centre"
+    ],
+    "amenities": [
+      "Parking",
+      "Accessible toilets",
+      "Card and cash payments accepted"
+    ],
+    "specialFeatures": [
+      "More space than previous venue",
+      "More layouts",
+      "More traders",
+      "More parking",
+      "More accessible toilets",
+      "Same price",
+      "Free bus from the station"
+    ],
+    "description": "Macclesfield Model Railway Group's annual exhibition featuring multiple model railway layouts, traders, and demonstrators. The event has moved to a larger venue with improved facilities including more parking and accessible toilets. A free vintage bus service operates from the station via the bus station and town centre. No smoking or vaping is permitted within the grounds or buildings. Photography for personal use is welcome with permission from stall holders. Social media posting is requested to be delayed until after the exhibition closes at 16:30 on Sunday.",
+    "latLng": "53.2597,-2.1247",
+    "url": "https://www.macclesfieldmrg.org.uk/exhibition/",
+    "entry": {
+      "adult": "Not specified",
+      "children": "Not specified",
+      "family": "Not specified"
+    }
   }
 ]
