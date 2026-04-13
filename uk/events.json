@@ -1270,4 +1270,23 @@
       "family": "Not specified"
     }
   }
+  , {
+    "name": "Hastings Model Railway Show",
+    "organizer": "Model Railway Quest",
+    "startDate": "2026-05-17",
+    "endDate": "2026-05-17",
+    "venue": "Summerfields Leisure Centre",
+    "address": "Bohemia Rd, Hastings TN34 1ET",
+    "county": "East Sussex",
+    "layouts": "20+",
+    "traders": "15",
+    "description": "",
+    "latLng": "50.85708770676726, 0.5700717134451062",
+    "url": "https://www.modelrailwayquest.com/hastings-2026",
+    "entry": {
+      "adult": "£5.95",
+      "children": "£3.95",
+      "family": "£12.95"
+    }
+  }
 ]
