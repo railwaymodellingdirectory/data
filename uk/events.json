@@ -1269,6 +1269,36 @@
       "children": "Not specified",
       "family": "Not specified"
     }
+  },
+  {
+    "name": "BEYOND STEAM",
+    "organizer": "BEYOND STEAM",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-05",
+    "venue": "STEAM - The Museum of the Great Western Railway",
+    "address": "Fire fly Avenue, Swindon, SN2 2EY",
+    "county": "Wiltshire",
+    "layouts": "13+",
+    "traders": 4,
+    "features": [
+      "Contemporary railway modelling celebration",
+      "Located in The Great Western Hall"
+    ],
+    "amenities": [
+      "Museum access with 10% discount for event visitors"
+    ],
+    "specialFeatures": [
+      "Celebration of Contemporary Railway Modelling",
+      "Access to STEAM Museum"
+    ],
+    "description": "Join us at STEAM - The Museum of the Great Western Railway, Swindon for a Celebration of Contemporary Railway Modelling",
+    "latLng": "51.5627,-1.7760",
+    "url": "https://beyondsteam.com/",
+    "entry": {
+      "adult": "£10.00",
+      "children": "FREE (Under 16, escorted)",
+      "family": "Not specified"
+    }
   }
   , {
     "name": "Hastings Model Railway Show",
