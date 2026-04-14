@@ -1327,7 +1327,7 @@
     "venue": "The Historic Dockyard Chatham",
     "address": "The Historic Dockyard Chatham, ME4 4TZ",
     "county": "Kent",
-    "layouts": "51 layouts including various scales: OO, N, O, EM, HOe, O-16.5, ON30, O14, OO9, G, TT120, Hoe, 7mm Irish, and HO",
+    "layouts": "51",
     "traders": 43,
     "features": [
       "Model Railway Exhibition",
@@ -1351,7 +1351,7 @@
       "Heritage railway demonstrations"
     ],
     "description": "The Chatham Show is returning to The Historic Dockyard Chatham for 2026 following the success of 2025. Join us on 18-19th July for one of the largest events in the South East celebrating all things model railways and model engineering. The exhibition features 51 layouts in various scales, 43 traders, and numerous societies and demonstrators. Visitors can also enjoy the Call the Midwife Official Location Tour and explore historic warships with half-price Dockyard entry when presenting show tickets.",
-    "latLng": "51.3971676,0.528592",
+    "latLng": "51.397235949992215, 0.5290433999746037",
     "url": "https://www.chatham-mrc.co.uk/exhibition",
     "entry": {
       "adult": "£11 on the day, £10 in advance",
