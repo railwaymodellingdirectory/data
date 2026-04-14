@@ -1299,8 +1299,8 @@
       "children": "FREE (Under 16, escorted)",
       "family": "Not specified"
     }
-  }
-  , {
+  },
+  {
     "name": "Hastings Model Railway Show",
     "organizer": "Model Railway Quest",
     "startDate": "2026-05-17",
@@ -1317,6 +1317,46 @@
       "adult": "£5.95",
       "children": "£3.95",
       "family": "£12.95"
+    }
+  },
+  {
+    "name": "Chatham Show",
+    "organizer": "Chatham & District Model Railway Club",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-19",
+    "venue": "The Historic Dockyard Chatham",
+    "address": "The Historic Dockyard Chatham, ME4 4TZ",
+    "county": "Kent",
+    "layouts": "51 layouts including various scales: OO, N, O, EM, HOe, O-16.5, ON30, O14, OO9, G, TT120, Hoe, 7mm Irish, and HO",
+    "traders": 43,
+    "features": [
+      "Model Railway Exhibition",
+      "Model Engineering displays",
+      "Call the Midwife Official Location Tour",
+      "Half price Dockyard entry with show tickets",
+      "Historic warships to explore",
+      "Royal Museums Greenwich collections",
+      "Imperial War Museums objects"
+    ],
+    "amenities": [
+      "Parking available at Historic Dockyard Chatham",
+      "Parking at adjacent Dockside Outlet Centre",
+      "Food and refreshments available"
+    ],
+    "specialFeatures": [
+      "One of the largest events in the South East celebrating model railways",
+      "Early bird entry at 9:30am with advance tickets",
+      "Accompanied children under 16 free",
+      "Multiple societies and demonstrators present",
+      "Heritage railway demonstrations"
+    ],
+    "description": "The Chatham Show is returning to The Historic Dockyard Chatham for 2026 following the success of 2025. Join us on 18-19th July for one of the largest events in the South East celebrating all things model railways and model engineering. The exhibition features 51 layouts in various scales, 43 traders, and numerous societies and demonstrators. Visitors can also enjoy the Call the Midwife Official Location Tour and explore historic warships with half-price Dockyard entry when presenting show tickets.",
+    "latLng": "51.3971676,0.528592",
+    "url": "https://www.chatham-mrc.co.uk/exhibition",
+    "entry": {
+      "adult": "£11 on the day, £10 in advance",
+      "children": "Free (under 16, accompanied)",
+      "family": "Not specified"
     }
   }
 ]
