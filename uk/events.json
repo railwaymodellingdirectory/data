@@ -1358,5 +1358,27 @@
       "children": "Free (under 16, accompanied)",
       "family": "Not specified"
     }
+  },
+  {
+    "name": "Birchington Model Railway Exhibition",
+    "organizer": "East Kent Model Railway Society (Whitstable)",
+    "startDate": "2026-05-09",
+    "endDate": "2026-05-09",
+    "venue": "The Centre",
+    "address": "Alpha Road, Birchington CT7 9EG",
+    "county": "Kent",
+    "layouts": "",
+    "traders": "",
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.37722, 1.30528",
+    "url": "",
+    "entry": {
+      "adult": "£6",
+      "children": "£1 (5-16), under 5s free",
+      "family": "£12 (2+3)"
+    }
   }
 ]
