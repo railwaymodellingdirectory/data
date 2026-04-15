@@ -1415,5 +1415,34 @@
       "children": "£4 (accompanied, under 5 free)",
       "family": "£20 (2 adults + 2 children)"
     }
+  },
+  {
+    "name": "Southampton Model Railway Society Open Day",
+    "organizer": "Southampton Model Railway Society",
+    "startDate": "2026-05-09",
+    "endDate": "2026-05-09",
+    "venue": "Unit 1B, Kemps Quay Industrial Park",
+    "address": "Quayside Road, Southampton, SO18 1BZ",
+    "county": "Hampshire",
+    "layouts": null,
+    "traders": null,
+    "features": [
+      "Society layouts in gauges N to O operating or on display"
+    ],
+    "amenities": [
+      "Free parking available on site"
+    ],
+    "specialFeatures": [
+      "Modelling advice available",
+      "Learn new modelling skills"
+    ],
+    "description": "Annual open day for those interested in model railways, looking for a new hobby or rekindling an old interest, wanting to build railway models or learn new modelling skills.",
+    "latLng": "50.9097, -1.3801",
+    "url": "www.southamptonmodelrailwaysociety.co.uk",
+    "entry": {
+      "adult": "Free",
+      "children": "Free",
+      "family": "Free"
+    }
   }
 ]
