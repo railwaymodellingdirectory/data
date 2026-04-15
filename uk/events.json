@@ -1383,13 +1383,13 @@
   },
   {
     "name": "Winterslow Model Railway Exhibition",
-    "organizer": "Rob Hampton",
+    "organizer": "",
     "startDate": "2026-04-18",
     "endDate": "2026-04-19",
     "venue": "Winterslow Village Hall",
     "address": "Middleton Road, Nr Salisbury, SP5 1PQ",
     "county": "Wiltshire",
-    "layouts": "Blackgang (Gauge 3), Wykeham Junction (N gauge), Rosenbach (LGB), Horsebridge Wharf (EM gauge), Milburn (OO), Lockdown Junction (OO Tri-ang/Minic Motorway), Fordingham (TT gauge), Portsea (TT gauge), Hornby Live Steam (OO gauge), Penbooney Cornwall (N gauge), Milford Park (N gauge), Carolann (HO gauge American outline)",
+    "layouts": "12",
     "traders": 2,
     "features": [
       "Figure painting demonstration by Roger Trim",
@@ -1408,7 +1408,7 @@
       "Various railway gauges on display"
     ],
     "description": "Winterslow Model Railway Exhibition features 12 layouts across various gauges including Gauge 3, N, LGB, EM, OO, TT, and HO. The exhibition includes demonstrations of figure painting by Roger Trim and Hornby Live Steam. Two traders will be present: A&B Models and Monica's Attic. The event runs over two days with different opening hours each day.",
-    "latLng": "51.0937003,-1.6561279",
+    "latLng": "51.09363962748939, -1.6559025963347795",
     "url": "https://www.google.com/maps/place/Winterslow+Village+Hall/@51.0937003,-1.6587028,17z/data=!3m1!4b1!4m6!3m5!1s0x4873f19ab52daed5:0x152280633696e88!8m2!3d51.0937003!4d-1.6561279!16s%2Fg%2F11b86b4bqx?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D",
     "entry": {
       "adult": "£8",
