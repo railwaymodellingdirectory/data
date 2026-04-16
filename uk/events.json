@@ -1444,5 +1444,42 @@
       "children": "Free",
       "family": "Free"
     }
+  },
+  {
+    "name": "Stamford Model Railway Show",
+    "organizer": "Market Deeping Model Railway Club",
+    "startDate": "2026-05-09",
+    "endDate": "2026-05-10",
+    "venue": "Stamford Welland Academy",
+    "address": "Stamford Welland Academy, Stamford",
+    "county": "Lincolnshire",
+    "layouts": "28 varied layouts",
+    "traders": 20,
+    "features": [
+      "28 varied layouts",
+      "Multiple scales including OO, N, O, HO, 4mm, 7mm, TT120, H0m",
+      "Interactive shunting competition",
+      "Heritage and preserved lines",
+      "Modern and historical eras represented"
+    ],
+    "amenities": [
+      "Catering by Grasmere Farm",
+      "Multiple traders",
+      "Advance booking available"
+    ],
+    "specialFeatures": [
+      "Museum of Transport layout",
+      "Swiss railways including Brusio Viaduct and Rhätischebahn",
+      "Australian heritage line - BlueGum Ridge",
+      "Various British railway regions and eras"
+    ],
+    "description": "Plans are now well in hand for this year's Stamford show with 28 varied layouts and many traders expected. It will be on Saturday and Sunday 9th and 10th May at the usual venue, Stamford Welland Academy. The show features layouts representing various scales and eras, from 1920s branch lines to modern diesel operations, including British, Swiss, and Australian railways. Sponsors include Trains4U, Grasmere Farm, and Country Court Care.",
+    "latLng": "52.6518,-0.4816",
+    "url": "https://mdmrc.org/stamford-model-railway-show/",
+    "entry": {
+      "adult": "Available via advance booking",
+      "children": "Available via advance booking",
+      "family": "Available via advance booking"
+    }
   }
 ]
