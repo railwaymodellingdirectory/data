@@ -1481,5 +1481,40 @@
       "children": "Available via advance booking",
       "family": "Available via advance booking"
     }
+  },
+  {
+    "name": "The Bristol Model Railway Exhibition",
+    "organizer": "The Association of Model Railway Clubs Wales & West of England",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-03",
+    "venue": "Thornbury Leisure Centre",
+    "address": "Thornbury Leisure Centre",
+    "county": "Bristol",
+    "layouts": "30+",
+    "traders": 40,
+    "features": [
+      "30+ high-quality layouts across multiple scales and gauges",
+      "40+ retailers, clubs and societies",
+      "Live demonstrations",
+      "Expert advice",
+      "Early entry from 9:30am for pre-booked ticket holders"
+    ],
+    "amenities": [
+      "Specialist traders",
+      "Clubs and societies"
+    ],
+    "specialFeatures": [
+      "One of the West's leading model railway shows",
+      "Multiple scales and gauges represented",
+      "Leading manufacturers and specialist retailers"
+    ],
+    "description": "The Bristol Model Railway Exhibition 2026 takes place 1–3 May in Bristol and is one of the West's leading model railway shows. Featuring 30+ high-quality layouts across multiple scales and gauges, plus 40+ retailers, clubs and societies, the exhibition showcases the best in model railway design, craftsmanship and innovation. With specialist traders, live demonstrations and expert advice, it's a must-visit event for model railway enthusiasts of all ages and experience levels.",
+    "latLng": "51.60058628216922, -2.527065947733347",
+    "url": "https://www.world-of-railways.co.uk/the-bristol-model-railway-exhibition/",
+    "entry": {
+      "adult": "",
+      "children": "",
+      "family": ""
+    }
   }
 ]
