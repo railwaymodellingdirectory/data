@@ -1516,5 +1516,43 @@
       "children": "",
       "family": ""
     }
+  },
+  {
+    "name": "Milton Keynes Model Railway Society Exhibition",
+    "organizer": "Milton Keynes Model Railway Society",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "venue": "Walton High Brooklands Campus",
+    "address": "Fen Street, Brooklands, Milton Keynes MK10 7HE",
+    "county": "Buckinghamshire",
+    "layouts": "30",
+    "traders": 15,
+    "features": [
+      "Operating layouts from club and visiting clubs",
+      "Trade stands",
+      "Demonstrations",
+      "Preservation societies",
+      "Local railway groups displays",
+      "40 page show guide included"
+    ],
+    "amenities": [
+      "Free car park on site",
+      "Free on street parking"
+    ],
+    "specialFeatures": [
+      "Win A Layout - N (Raffle Prize)",
+      "Kit Building Demo",
+      "NSE Modelling Demo",
+      "Train Driving Demo",
+      "Tree Making Demo"
+    ],
+    "description": "Milton Keynes Model Railway Society's exhibition featuring a variety of operating layouts ranging from N to O scale, alongside trade stands, demonstrations, preservation societies and local railway groups displays. The event showcases 30 confirmed layouts including Books Bridge (O16.5), Castleton Junction (N), Church Hill Road (OO), and many others. Multiple demonstrations and societies will be present including Battle Of Britain Preservation Society, Friends of Network SouthEast, and various modeling demonstrations.",
+    "latLng": "52.0426,-0.7482",
+    "url": "https://mkmrs.org.uk/2026-exhibition/",
+    "entry": {
+      "adult": "£8",
+      "children": "£2",
+      "family": "Under 5s go FREE"
+    }
   }
 ]
