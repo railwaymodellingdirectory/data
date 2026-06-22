@@ -1554,5 +1554,50 @@
       "children": "£2",
       "family": "Under 5s go FREE"
     }
+  },
+  {
+    "name": "July 2026",
+    "organizer": "South Coast Model Railway Club",
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-26",
+    "venue": "Arnewood School",
+    "address": "Arnewood School, New Milton, Hampshire. BH25 6RS",
+    "county": "Hampshire",
+    "layouts": "0 gauge: Harlyn Pier SR/BR steam, Danbee GWR, Foxes Sidings GWR, Shawton Town GWR/SR/BR, St Stephens Modern Image; 00 gauge: Lower Exbury BR steam, Merstone SR Isle of Wight, Bournemouth Central BR steam, Piddle Regis BR steam, Penny Lane BR steam, Somewhere in France WW1 layout, Kato meets GWR GWR, Falkirk road Modern image; N gauge: Wykeham Junction BR SR, Summit else Industrial, Just in case Freelance steam; 009: Lyddington Narrow gauge, Wheres it at? Freelance steam",
+    "traders": 15,
+    "features": [
+      "Invited Layouts",
+      "Traders",
+      "Demos"
+    ],
+    "amenities": [
+      "Ray Heard Model Railways",
+      "Model Railway Solutions",
+      "John Sutton Models",
+      "Squires Tools",
+      "Broadway Models",
+      "Wheels of Southsea",
+      "Ron Lines",
+      "Model Railway Bits",
+      "Andy Ford Friends of Sir Frederick Pile",
+      "Terry Dawe",
+      "James model railway company",
+      "Gary Nurse",
+      "DCC model railway signalling",
+      "First class kits",
+      "Jays 3D prints"
+    ],
+    "specialFeatures": [
+      "Friends of New Milton Station Demo",
+      "ABC gears Demo"
+    ],
+    "description": "The Two Day Exhibition of the South Coast Model Railway Club at the Arnewood School, New Milton, Hampshire. Taking place over the weekend of 25th & 26th of July 2026.",
+    "latLng": "",
+    "url": "https://www.southcoastmodelrailwayclub.co.uk/exhibition/july-2026/",
+    "entry": {
+      "adult": "£8.00",
+      "children": "Free",
+      "family": "Accompanied children under 16: Free"
+    }
   }
 ]
