@@ -1595,5 +1595,32 @@
       "children": "Free",
       "family": "Accompanied children under 16: Free"
     }
+  },
+  {
+    "name": "Swansea Model Railway Exhibition 2026",
+    "organizer": "SRMG",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "venue": "LC Swansea",
+    "address": "Oystermouth Rd, SA1 3ST",
+    "county": "Swansea",
+    "layouts": "",
+    "traders": "",
+    "features": [
+      "Layouts",
+      "Traders",
+      "Demos",
+      "Societies"
+    ],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.6185,-3.9436",
+    "url": "https://srmg.org.uk/2026-show",
+    "entry": {
+      "adult": "£10.00",
+      "children": "£1.00",
+      "family": ""
+    }
   }
 ]
