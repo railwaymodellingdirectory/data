@@ -1622,5 +1622,35 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "N Gauge Society Model Railway Show",
+    "organizer": "N Gauge Society Berkshire Area Group",
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "venue": "Woodlands Park Village Centre",
+    "address": "Manifold Way, White Waltham, Maidenhead SL6 3SW",
+    "county": "Berkshire",
+    "layouts": "",
+    "traders": null,
+    "features": [
+      "Club layout 'Wokingham'",
+      "Other layouts",
+      "2nd Hand Sales"
+    ],
+    "amenities": [
+      "Refreshments"
+    ],
+    "specialFeatures": [
+      "Trade Support"
+    ],
+    "description": "",
+    "latLng": "51.5045, -0.7847",
+    "url": "www.bagladdies.weebly.com",
+    "entry": {
+      "adult": "",
+      "children": "",
+      "family": ""
+    }
   }
 ]
