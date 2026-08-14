@@ -1622,5 +1622,27 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "Model Railway Exhibition 2026",
+    "organizer": "Darlington Model Railway Club",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13",
+    "venue": "Oakleaf Sports Complex",
+    "address": "School Aycliffe Lane, Newton Aycliffe DL5 6QZ",
+    "county": "County Durham",
+    "layouts": "",
+    "traders": null,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "54.6152, -1.5819",
+    "url": "https://www.darlingtonmrc.co.uk",
+    "entry": {
+      "adult": "£8.00",
+      "children": "Free (Under 16s)",
+      "family": ""
+    }
   }
 ]
