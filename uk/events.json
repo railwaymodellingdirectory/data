@@ -1622,5 +1622,32 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "The Heart of the Midlands Loughborough Model Railway Exhibition",
+    "organizer": "Soar Valley Model Railway Club",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-23",
+    "venue": "Loughborough Grammar School",
+    "address": "Leicester Road, Loughborough, LE11 2DU",
+    "county": "Leicestershire",
+    "layouts": "50+",
+    "traders": null,
+    "features": [],
+    "amenities": [
+      "Free Show Guide",
+      "Refreshments",
+      "Disabled Access",
+      "Free Parking"
+    ],
+    "specialFeatures": [],
+    "description": "Over 50 Exhibits and Traders",
+    "latLng": "52.7721, -1.2062",
+    "url": "https://www.svmrc.co.uk",
+    "entry": {
+      "adult": "£12",
+      "children": "£5 (under 16)",
+      "family": "£25 (2 Adults & up to 3 Children)"
+    }
   }
 ]
