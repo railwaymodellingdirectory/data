@@ -1622,5 +1622,29 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "Chatham Show 2027",
+    "organizer": "The Chatham & District Model Railway Club",
+    "startDate": "2027-07-17",
+    "endDate": "2027-07-18",
+    "venue": "Historic Dockyard Chatham",
+    "address": "Chatham",
+    "county": "Kent",
+    "layouts": "",
+    "traders": null,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [
+      "Kent's Largest Model Railway Exhibition"
+    ],
+    "description": "",
+    "latLng": "51.3964, 0.5297",
+    "url": "https://www.chatham.show",
+    "entry": {
+      "adult": "",
+      "children": "",
+      "family": ""
+    }
   }
 ]
