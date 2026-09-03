@@ -1622,5 +1622,36 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "Wakefield Model Railway Show",
+    "organizer": "Wakefield Railway Modellers Society",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "venue": "The Queen Elizabeth Grammar School",
+    "address": "Northgate, Wakefield, WF1 3QX",
+    "county": "West Yorkshire",
+    "layouts": "",
+    "traders": "",
+    "features": [
+      "Drive your own Thomas the Tank Engine"
+    ],
+    "amenities": [
+      "Wheelchair access available at the venue",
+      "Car park",
+      "Catering"
+    ],
+    "specialFeatures": [
+      "All proceeds from Thomas the Tank Engine layout donated to Wakefield Hospice",
+      "Carer(s) free when accompanying a fee paying person"
+    ],
+    "description": "A Show Within A Show",
+    "latLng": "53.6833, -1.4977",
+    "url": "www.wakefieldrmrs.org",
+    "entry": {
+      "adult": "£10",
+      "children": "£2 (unaccompanied young people aged 11 to 17)",
+      "family": "Up to 2 free Junior tickets with every adult ticket"
+    }
   }
 ]
