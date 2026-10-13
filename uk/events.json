@@ -1622,5 +1622,34 @@
       "children": "£1.00",
       "family": ""
     }
+  },
+  {
+    "name": "Model Railway Show",
+    "organizer": "Beckenham and West Wickham Model Railway Club",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "venue": "Forest Hill Boys School",
+    "address": "Dacres Road, Forest Hill, London SE23 2XN",
+    "county": "London",
+    "layouts": "Up to 20",
+    "traders": null,
+    "features": [
+      "Cassiobury by Underground Eric",
+      "Metropolitan line layout"
+    ],
+    "amenities": [
+      "Refreshments",
+      "Card Payments Available",
+      "Fully accessible to hand powered wheelchairs"
+    ],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.4396, -0.0534",
+    "url": "https://www.bwwmrc.co.uk/",
+    "entry": {
+      "adult": "£10.00 (Save £2.00 on Purchase Ticket Early)",
+      "children": "FREE (up to 16) accompanied by an adult",
+      "family": null
+    }
   }
 ]
